@@ -1,0 +1,1201 @@
+Patient_ID,Age,Gender,Smoking_Status,Years_of_Smoking,Occupation,Disease_Type,Oxygen_Level,Chest_Pain,Shortness_of_Breath,Coughing,Diagnosis
+1,32,Female,Yes,26,Farmer,COPD,81,Yes,No,No,Negative
+2,21,Female,Yes,2,Student,Pneumonia,78,No,No,No,Positive
+3,53,Female,Yes,40,Student,COPD,76,Yes,Yes,Yes,Negative
+4,49,Female,Yes,37,Office Job,Asthma,96,No,Yes,Yes,Negative
+5,46,Male,No,7,Factory Worker,Pneumonia,91,No,Yes,No,Positive
+6,35,Male,No,28,Student,Bronchitis,93,No,No,Yes,Positive
+7,31,Female,No,29,Office Job,Pneumonia,76,Yes,Yes,No,Negative
+8,29,Female,Yes,37,Driver,Bronchitis,90,Yes,Yes,No,Negative
+9,72,Male,No,32,Farmer,Asthma,78,Yes,Yes,No,Negative
+10,22,Female,Yes,8,Farmer,COPD,83,Yes,Yes,No,Negative
+11,21,Female,Yes,31,Student,Asthma,76,No,Yes,Yes,Positive
+12,29,Female,No,0,Farmer,Pneumonia,77,No,No,No,Positive
+13,45,Male,No,33,Driver,Bronchitis,84,No,No,Yes,Negative
+14,47,Male,Yes,3,Factory Worker,Bronchitis,96,Yes,No,No,Positive
+15,82,Female,Yes,35,Housewife,Pneumonia,75,Yes,No,No,Negative
+16,21,Male,No,27,Student,Normal,99,Yes,No,No,Positive
+17,43,Male,No,37,Driver,Bronchitis,78,Yes,No,No,Positive
+18,71,Male,No,30,Housewife,Normal,78,No,No,No,Positive
+19,46,Female,Yes,32,Office Job,Asthma,94,No,No,Yes,Negative
+20,75,Male,Yes,11,Factory Worker,Bronchitis,81,Yes,No,Yes,Positive
+21,53,Male,Yes,37,Student,Normal,93,Yes,No,No,Negative
+22,18,Female,No,11,Farmer,Bronchitis,81,Yes,Yes,Yes,Negative
+23,38,Female,Yes,8,Student,Normal,80,Yes,No,Yes,Negative
+24,72,Female,Yes,6,Office Job,Bronchitis,96,No,No,Yes,Positive
+25,61,Male,Yes,24,Farmer,Bronchitis,86,No,No,Yes,Negative
+26,53,Male,No,38,Housewife,Lung Cancer,75,No,Yes,No,Positive
+27,37,Female,No,38,Factory Worker,Asthma,77,No,No,No,Negative
+28,45,Female,Yes,20,Housewife,Asthma,79,Yes,No,No,Positive
+29,61,Male,No,32,Student,Bronchitis,98,No,Yes,Yes,Negative
+30,31,Male,Yes,24,Driver,Normal,83,Yes,Yes,No,Positive
+31,29,Female,No,26,Office Job,COPD,93,Yes,No,Yes,Positive
+32,66,Male,No,38,Student,Normal,86,Yes,No,No,Positive
+33,30,Female,No,15,Housewife,Bronchitis,86,No,Yes,Yes,Positive
+34,63,Male,No,17,Driver,Pneumonia,80,No,Yes,No,Positive
+35,62,Female,No,25,Student,Asthma,91,Yes,Yes,Yes,Negative
+36,51,Male,Yes,21,Office Job,Pneumonia,99,Yes,No,No,Positive
+37,23,Female,No,18,Student,Normal,98,Yes,Yes,Yes,Positive
+38,76,Male,No,28,Farmer,Lung Cancer,94,Yes,No,No,Negative
+39,33,Female,No,8,Farmer,Bronchitis,82,Yes,No,Yes,Negative
+40,66,Male,Yes,8,Driver,Normal,91,Yes,No,No,Positive
+41,28,Female,No,26,Housewife,Normal,93,Yes,No,No,Negative
+42,55,Female,Yes,38,Farmer,Lung Cancer,77,Yes,Yes,Yes,Positive
+43,64,Female,Yes,32,Factory Worker,COPD,78,No,Yes,No,Negative
+44,42,Female,No,19,Factory Worker,COPD,93,Yes,No,Yes,Negative
+45,26,Female,Yes,35,Student,Normal,99,No,Yes,Yes,Positive
+46,23,Male,Yes,20,Housewife,Bronchitis,75,No,No,Yes,Positive
+47,47,Female,No,35,Factory Worker,Pneumonia,91,No,Yes,Yes,Positive
+48,55,Male,Yes,40,Factory Worker,Lung Cancer,81,Yes,No,No,Positive
+49,28,Female,Yes,13,Office Job,COPD,97,Yes,No,No,Positive
+50,47,Male,No,12,Office Job,Normal,81,No,Yes,Yes,Negative
+51,30,Female,Yes,13,Factory Worker,Bronchitis,84,No,No,No,Positive
+52,66,Female,No,39,Office Job,Pneumonia,80,Yes,No,Yes,Negative
+53,53,Male,No,18,Factory Worker,COPD,99,Yes,Yes,Yes,Positive
+54,76,Female,Yes,22,Driver,Asthma,92,Yes,No,Yes,Positive
+55,64,Male,No,8,Office Job,Pneumonia,75,No,No,Yes,Positive
+56,38,Male,No,11,Factory Worker,Pneumonia,98,No,No,No,Negative
+57,65,Female,Yes,32,Factory Worker,Normal,78,Yes,Yes,Yes,Negative
+58,63,Female,No,34,Student,Lung Cancer,81,Yes,No,Yes,Negative
+59,44,Male,Yes,40,Housewife,Bronchitis,91,No,No,Yes,Positive
+60,52,Female,Yes,20,Driver,Normal,97,No,Yes,Yes,Negative
+61,27,Female,No,7,Housewife,COPD,90,No,Yes,No,Negative
+62,39,Female,No,22,Driver,Normal,86,Yes,Yes,Yes,Positive
+63,49,Male,Yes,35,Student,Normal,97,Yes,Yes,Yes,Negative
+64,38,Female,Yes,30,Student,COPD,93,No,No,No,Positive
+65,77,Male,No,37,Housewife,Asthma,80,No,Yes,No,Negative
+66,66,Male,No,36,Student,Bronchitis,89,No,No,Yes,Negative
+67,52,Male,Yes,26,Farmer,Pneumonia,96,No,No,Yes,Negative
+68,46,Male,No,34,Factory Worker,Pneumonia,78,Yes,Yes,Yes,Negative
+69,59,Female,Yes,18,Farmer,Pneumonia,80,Yes,No,No,Negative
+70,25,Female,No,27,Office Job,Pneumonia,86,No,Yes,Yes,Negative
+71,47,Male,Yes,0,Student,COPD,87,Yes,No,Yes,Negative
+72,22,Male,Yes,33,Housewife,Pneumonia,88,Yes,Yes,No,Positive
+73,58,Male,No,6,Factory Worker,Pneumonia,81,No,Yes,No,Positive
+74,69,Male,No,1,Factory Worker,Normal,91,No,Yes,Yes,Positive
+75,52,Female,No,24,Office Job,Normal,82,No,Yes,No,Negative
+76,26,Male,No,9,Housewife,Lung Cancer,88,No,Yes,Yes,Negative
+77,45,Male,No,3,Driver,Normal,78,No,Yes,Yes,Negative
+78,58,Male,No,3,Factory Worker,COPD,99,Yes,No,Yes,Negative
+79,45,Male,No,12,Driver,Lung Cancer,85,No,Yes,Yes,Positive
+80,81,Male,Yes,17,Housewife,Normal,78,Yes,Yes,Yes,Negative
+81,68,Female,Yes,10,Factory Worker,COPD,89,Yes,No,No,Positive
+82,76,Female,Yes,18,Farmer,Bronchitis,78,Yes,No,Yes,Positive
+83,36,Female,Yes,16,Student,Bronchitis,91,Yes,No,Yes,Negative
+84,51,Female,No,9,Housewife,Normal,79,No,Yes,Yes,Negative
+85,35,Female,Yes,3,Driver,Bronchitis,90,No,No,No,Positive
+86,49,Male,No,18,Farmer,Normal,99,No,No,No,Negative
+87,51,Female,Yes,13,Housewife,Pneumonia,86,Yes,Yes,Yes,Negative
+88,72,Male,No,34,Factory Worker,Lung Cancer,97,No,Yes,Yes,Positive
+89,69,Female,Yes,2,Student,Bronchitis,84,Yes,No,Yes,Negative
+90,64,Female,No,22,Farmer,Lung Cancer,92,No,Yes,No,Negative
+91,46,Female,No,28,Student,Lung Cancer,98,Yes,No,No,Negative
+92,35,Female,Yes,6,Factory Worker,Lung Cancer,76,Yes,Yes,Yes,Positive
+93,83,Male,Yes,39,Housewife,Asthma,77,Yes,Yes,No,Positive
+94,81,Female,No,35,Factory Worker,COPD,85,No,No,Yes,Negative
+95,29,Male,No,14,Farmer,Pneumonia,90,No,No,No,Negative
+96,24,Female,Yes,35,Factory Worker,Normal,78,No,No,Yes,Positive
+97,32,Female,No,24,Office Job,Pneumonia,87,No,No,No,Negative
+98,37,Female,Yes,15,Student,Lung Cancer,84,No,Yes,Yes,Positive
+99,38,Male,No,32,Factory Worker,Pneumonia,89,No,Yes,No,Negative
+100,72,Male,Yes,18,Factory Worker,Normal,94,Yes,No,Yes,Negative
+101,26,Female,Yes,3,Housewife,Lung Cancer,98,No,Yes,Yes,Negative
+102,67,Female,No,24,Office Job,COPD,84,Yes,No,No,Negative
+103,66,Male,Yes,24,Student,Pneumonia,96,No,Yes,No,Negative
+104,77,Male,No,26,Driver,Bronchitis,89,No,Yes,No,Negative
+105,85,Female,No,20,Office Job,Normal,82,Yes,Yes,No,Negative
+106,50,Female,No,35,Office Job,Asthma,92,No,No,Yes,Negative
+107,19,Male,Yes,3,Student,Normal,88,No,Yes,Yes,Negative
+108,32,Female,No,0,Housewife,COPD,84,No,Yes,No,Positive
+109,52,Male,Yes,16,Office Job,Pneumonia,88,Yes,No,Yes,Negative
+110,61,Female,Yes,12,Student,Lung Cancer,81,No,Yes,Yes,Negative
+111,32,Female,Yes,39,Housewife,Pneumonia,77,Yes,No,Yes,Positive
+112,55,Male,No,28,Office Job,Normal,90,Yes,No,Yes,Negative
+113,73,Male,No,14,Student,COPD,96,No,Yes,No,Positive
+114,38,Female,Yes,40,Housewife,Lung Cancer,86,No,No,No,Negative
+115,76,Male,Yes,23,Student,Bronchitis,80,Yes,Yes,No,Negative
+116,18,Female,Yes,37,Driver,COPD,75,No,Yes,Yes,Negative
+117,51,Male,Yes,34,Housewife,Asthma,96,Yes,No,Yes,Positive
+118,82,Male,Yes,38,Factory Worker,Normal,90,Yes,No,No,Positive
+119,40,Male,No,12,Housewife,COPD,96,No,No,Yes,Positive
+120,82,Male,No,12,Student,Lung Cancer,78,No,No,Yes,Positive
+121,31,Female,Yes,18,Farmer,Lung Cancer,87,Yes,Yes,Yes,Negative
+122,56,Female,No,28,Housewife,Asthma,89,Yes,Yes,Yes,Positive
+123,82,Male,No,11,Driver,Normal,91,Yes,Yes,Yes,Positive
+124,43,Female,No,4,Housewife,Lung Cancer,96,No,No,Yes,Positive
+125,37,Female,No,11,Housewife,Lung Cancer,96,Yes,Yes,No,Negative
+126,65,Female,Yes,11,Driver,Lung Cancer,77,No,No,Yes,Positive
+127,38,Female,Yes,32,Factory Worker,COPD,78,No,No,Yes,Negative
+128,85,Female,No,7,Office Job,Pneumonia,79,Yes,Yes,Yes,Negative
+129,18,Female,Yes,24,Office Job,COPD,87,Yes,No,No,Positive
+130,59,Male,No,2,Student,Normal,87,No,Yes,Yes,Positive
+131,80,Female,Yes,27,Driver,Asthma,97,No,No,Yes,Positive
+132,20,Male,Yes,17,Student,Normal,93,No,No,Yes,Negative
+133,32,Female,Yes,35,Farmer,Pneumonia,78,Yes,Yes,Yes,Positive
+134,64,Male,Yes,16,Housewife,Asthma,98,Yes,No,No,Positive
+135,57,Female,No,8,Office Job,Pneumonia,80,Yes,Yes,No,Negative
+136,48,Female,Yes,10,Student,Bronchitis,77,No,Yes,No,Positive
+137,25,Female,No,37,Student,Lung Cancer,86,No,No,Yes,Negative
+138,48,Male,No,16,Driver,Asthma,81,Yes,No,Yes,Positive
+139,28,Female,Yes,0,Farmer,Lung Cancer,85,No,Yes,No,Negative
+140,28,Male,No,21,Farmer,Pneumonia,81,No,No,No,Negative
+141,80,Male,No,29,Student,Asthma,94,Yes,No,No,Negative
+142,26,Female,No,9,Farmer,Bronchitis,87,Yes,Yes,No,Positive
+143,34,Female,No,2,Farmer,Asthma,78,No,No,No,Positive
+144,34,Female,Yes,9,Driver,Normal,82,No,No,No,Positive
+145,78,Male,Yes,20,Housewife,COPD,88,No,No,Yes,Positive
+146,39,Male,No,38,Driver,Lung Cancer,98,Yes,Yes,No,Positive
+147,51,Female,No,3,Housewife,COPD,90,No,No,Yes,Positive
+148,85,Female,No,40,Farmer,Asthma,83,Yes,Yes,Yes,Negative
+149,72,Female,No,39,Student,Normal,99,Yes,Yes,No,Negative
+150,45,Male,No,19,Office Job,Asthma,97,No,Yes,No,Positive
+151,43,Male,No,31,Student,Bronchitis,99,Yes,Yes,Yes,Positive
+152,57,Female,Yes,36,Student,Bronchitis,93,No,Yes,No,Negative
+153,69,Female,Yes,35,Office Job,Bronchitis,93,No,No,Yes,Negative
+154,65,Male,No,22,Driver,Asthma,83,Yes,No,Yes,Positive
+155,74,Female,No,4,Student,Pneumonia,99,Yes,No,No,Positive
+156,84,Female,Yes,20,Housewife,Bronchitis,95,No,Yes,No,Positive
+157,75,Male,No,33,Farmer,Pneumonia,87,No,Yes,No,Positive
+158,33,Male,Yes,14,Farmer,Pneumonia,86,Yes,No,No,Negative
+159,49,Female,No,11,Driver,Asthma,90,Yes,No,No,Positive
+160,46,Female,Yes,33,Driver,Asthma,96,Yes,No,No,Negative
+161,26,Male,No,4,Driver,Normal,94,No,No,Yes,Negative
+162,61,Male,No,32,Factory Worker,Pneumonia,87,Yes,No,No,Positive
+163,20,Male,No,10,Housewife,Lung Cancer,90,No,No,No,Negative
+164,47,Male,No,26,Factory Worker,COPD,91,Yes,No,Yes,Positive
+165,46,Male,No,34,Farmer,Pneumonia,83,No,Yes,No,Positive
+166,18,Female,Yes,34,Student,Lung Cancer,79,Yes,No,No,Positive
+167,27,Male,No,25,Factory Worker,COPD,99,No,No,Yes,Negative
+168,25,Male,No,5,Student,COPD,89,No,Yes,No,Positive
+169,47,Female,Yes,22,Office Job,Asthma,78,No,No,Yes,Positive
+170,26,Male,Yes,14,Farmer,Bronchitis,78,No,Yes,Yes,Positive
+171,22,Female,Yes,13,Factory Worker,Bronchitis,83,No,Yes,No,Positive
+172,60,Male,No,21,Farmer,Bronchitis,90,No,No,No,Negative
+173,27,Male,Yes,21,Office Job,Lung Cancer,90,No,Yes,No,Positive
+174,83,Male,Yes,23,Office Job,Bronchitis,82,No,No,No,Negative
+175,48,Male,Yes,18,Farmer,Pneumonia,95,No,No,No,Negative
+176,53,Female,No,13,Factory Worker,Normal,79,Yes,Yes,Yes,Negative
+177,80,Male,No,39,Housewife,Asthma,75,Yes,Yes,Yes,Positive
+178,45,Female,Yes,33,Farmer,Bronchitis,78,Yes,No,Yes,Negative
+179,34,Female,No,30,Student,Pneumonia,98,No,No,No,Negative
+180,78,Male,Yes,35,Student,Pneumonia,76,No,No,No,Negative
+181,49,Female,Yes,0,Student,Bronchitis,77,Yes,Yes,Yes,Positive
+182,78,Female,No,7,Student,Bronchitis,90,Yes,Yes,No,Positive
+183,70,Female,Yes,22,Student,Lung Cancer,96,Yes,Yes,Yes,Negative
+184,42,Male,No,28,Office Job,Asthma,75,No,Yes,Yes,Negative
+185,30,Male,Yes,15,Factory Worker,Normal,80,No,Yes,Yes,Negative
+186,30,Female,No,39,Factory Worker,Bronchitis,87,Yes,No,No,Negative
+187,73,Female,No,39,Driver,COPD,94,Yes,Yes,No,Negative
+188,63,Male,Yes,15,Farmer,Lung Cancer,96,No,Yes,Yes,Positive
+189,72,Female,No,2,Office Job,Bronchitis,85,Yes,No,No,Positive
+190,70,Female,Yes,20,Office Job,Bronchitis,79,No,No,Yes,Negative
+191,77,Female,Yes,24,Farmer,Pneumonia,84,Yes,Yes,Yes,Negative
+192,24,Female,No,7,Farmer,Lung Cancer,94,Yes,Yes,No,Negative
+193,30,Female,No,24,Student,Normal,94,No,Yes,Yes,Negative
+194,25,Female,Yes,16,Office Job,Pneumonia,78,No,No,No,Positive
+195,69,Male,No,34,Office Job,COPD,99,Yes,No,Yes,Negative
+196,61,Male,Yes,18,Farmer,COPD,77,Yes,Yes,No,Positive
+197,31,Male,Yes,1,Farmer,Normal,96,Yes,Yes,No,Negative
+198,49,Female,Yes,33,Factory Worker,Pneumonia,99,No,Yes,Yes,Negative
+199,42,Male,Yes,23,Student,Lung Cancer,91,No,No,Yes,Negative
+200,42,Female,No,32,Driver,Bronchitis,99,No,No,No,Positive
+201,75,Female,Yes,32,Student,Normal,90,No,Yes,No,Negative
+202,35,Male,Yes,28,Office Job,Pneumonia,89,No,No,Yes,Positive
+203,72,Male,Yes,31,Housewife,Lung Cancer,81,No,Yes,Yes,Positive
+204,41,Female,No,2,Factory Worker,Lung Cancer,84,Yes,Yes,Yes,Negative
+205,53,Male,Yes,18,Housewife,Lung Cancer,96,Yes,Yes,No,Positive
+206,77,Male,Yes,12,Farmer,Lung Cancer,90,Yes,Yes,Yes,Negative
+207,49,Female,No,20,Driver,COPD,90,No,No,No,Negative
+208,27,Female,Yes,32,Office Job,Lung Cancer,91,Yes,No,No,Negative
+209,74,Male,No,5,Driver,Pneumonia,83,No,No,No,Positive
+210,30,Female,Yes,6,Housewife,Normal,92,No,Yes,No,Negative
+211,24,Male,No,10,Housewife,Bronchitis,85,Yes,No,Yes,Negative
+212,19,Male,Yes,34,Student,Bronchitis,92,Yes,Yes,Yes,Positive
+213,29,Female,Yes,34,Factory Worker,Pneumonia,92,No,No,Yes,Positive
+214,48,Female,No,0,Student,Pneumonia,75,Yes,No,No,Positive
+215,39,Male,Yes,40,Housewife,Asthma,99,Yes,No,No,Positive
+216,70,Female,Yes,4,Farmer,Pneumonia,76,No,No,Yes,Positive
+217,80,Male,Yes,13,Factory Worker,Pneumonia,88,Yes,No,No,Negative
+218,79,Female,No,40,Housewife,Normal,78,Yes,Yes,No,Positive
+219,45,Female,No,13,Student,Asthma,87,No,Yes,Yes,Positive
+220,69,Male,No,27,Driver,Normal,89,No,Yes,Yes,Positive
+221,25,Female,Yes,6,Factory Worker,Lung Cancer,85,No,Yes,No,Negative
+222,39,Male,No,13,Factory Worker,Pneumonia,87,No,Yes,Yes,Negative
+223,66,Female,Yes,34,Farmer,Pneumonia,89,No,No,No,Positive
+224,18,Male,Yes,27,Farmer,Asthma,89,No,Yes,No,Positive
+225,67,Male,Yes,4,Driver,Lung Cancer,76,No,Yes,Yes,Negative
+226,51,Female,Yes,9,Driver,Normal,76,Yes,No,Yes,Negative
+227,76,Male,Yes,1,Factory Worker,COPD,80,Yes,No,No,Negative
+228,54,Female,No,29,Office Job,Pneumonia,92,No,Yes,Yes,Negative
+229,72,Male,No,21,Housewife,COPD,96,No,Yes,Yes,Negative
+230,80,Male,Yes,2,Housewife,COPD,99,No,No,No,Positive
+231,37,Male,Yes,5,Student,COPD,84,Yes,No,No,Positive
+232,42,Female,No,4,Factory Worker,Bronchitis,97,No,No,Yes,Negative
+233,55,Female,No,3,Housewife,COPD,80,Yes,No,No,Negative
+234,45,Male,Yes,11,Housewife,Normal,90,No,Yes,Yes,Positive
+235,25,Female,Yes,16,Driver,COPD,88,No,Yes,Yes,Negative
+236,25,Female,Yes,35,Factory Worker,Pneumonia,79,Yes,No,No,Positive
+237,58,Male,Yes,4,Farmer,Bronchitis,84,No,Yes,Yes,Negative
+238,25,Male,Yes,36,Student,Lung Cancer,97,No,Yes,Yes,Negative
+239,24,Male,No,14,Factory Worker,Asthma,87,Yes,No,No,Negative
+240,79,Female,No,16,Farmer,Pneumonia,90,No,Yes,Yes,Positive
+241,82,Male,No,26,Student,Lung Cancer,99,No,No,No,Negative
+242,85,Male,No,24,Student,Lung Cancer,78,Yes,No,No,Negative
+243,38,Female,Yes,28,Office Job,Asthma,93,Yes,Yes,No,Negative
+244,25,Male,Yes,40,Farmer,COPD,96,Yes,Yes,No,Positive
+245,83,Female,No,25,Student,COPD,90,No,Yes,No,Positive
+246,28,Male,Yes,27,Housewife,Normal,96,Yes,Yes,No,Negative
+247,41,Female,Yes,20,Office Job,COPD,92,Yes,Yes,Yes,Positive
+248,26,Male,No,1,Office Job,COPD,96,Yes,Yes,No,Negative
+249,26,Male,Yes,24,Factory Worker,Normal,92,Yes,Yes,No,Positive
+250,48,Male,No,7,Housewife,Pneumonia,93,Yes,No,Yes,Positive
+251,69,Female,Yes,34,Housewife,Asthma,90,No,No,No,Positive
+252,33,Female,Yes,0,Driver,Normal,90,Yes,Yes,No,Positive
+253,49,Male,No,39,Driver,Pneumonia,92,Yes,Yes,No,Positive
+254,23,Male,No,4,Student,COPD,80,Yes,Yes,No,Positive
+255,28,Female,Yes,37,Student,Pneumonia,91,Yes,Yes,Yes,Negative
+256,71,Male,Yes,2,Student,COPD,76,No,Yes,No,Positive
+257,84,Male,No,4,Factory Worker,COPD,87,Yes,Yes,Yes,Positive
+258,58,Male,No,22,Office Job,Normal,83,Yes,No,Yes,Negative
+259,51,Female,Yes,32,Driver,Asthma,90,No,Yes,Yes,Negative
+260,44,Female,Yes,6,Farmer,Bronchitis,93,Yes,Yes,Yes,Positive
+261,58,Male,No,18,Driver,Pneumonia,87,No,Yes,Yes,Negative
+262,48,Female,Yes,19,Office Job,Pneumonia,94,No,No,Yes,Positive
+263,51,Male,Yes,38,Office Job,Normal,96,Yes,No,Yes,Negative
+264,68,Female,No,5,Farmer,Asthma,86,No,Yes,No,Negative
+265,34,Male,No,18,Factory Worker,COPD,99,Yes,No,No,Positive
+266,56,Male,Yes,28,Driver,Pneumonia,84,No,Yes,Yes,Negative
+267,76,Female,No,24,Student,Asthma,85,No,Yes,Yes,Positive
+268,58,Male,No,25,Housewife,Lung Cancer,76,Yes,No,Yes,Negative
+269,27,Male,No,1,Factory Worker,Lung Cancer,75,No,Yes,Yes,Negative
+270,19,Female,Yes,30,Student,Bronchitis,93,Yes,No,No,Negative
+271,76,Female,No,10,Driver,Pneumonia,76,No,No,Yes,Negative
+272,30,Male,Yes,34,Farmer,COPD,79,No,Yes,Yes,Negative
+273,27,Female,Yes,14,Factory Worker,Pneumonia,86,No,No,No,Positive
+274,45,Female,Yes,8,Driver,Bronchitis,86,Yes,No,Yes,Positive
+275,82,Female,Yes,25,Student,Lung Cancer,98,Yes,No,Yes,Negative
+276,51,Male,No,34,Driver,Bronchitis,93,Yes,Yes,Yes,Positive
+277,34,Female,Yes,18,Housewife,Pneumonia,75,Yes,Yes,No,Negative
+278,62,Male,Yes,40,Office Job,Pneumonia,99,No,Yes,Yes,Negative
+279,26,Female,Yes,9,Office Job,Lung Cancer,95,Yes,Yes,No,Negative
+280,49,Male,No,19,Driver,Lung Cancer,85,Yes,Yes,No,Negative
+281,65,Male,No,23,Student,Asthma,87,No,Yes,No,Positive
+282,54,Female,No,0,Office Job,COPD,78,Yes,Yes,No,Negative
+283,38,Male,No,35,Driver,Lung Cancer,88,Yes,No,Yes,Positive
+284,74,Male,No,35,Driver,COPD,86,No,Yes,Yes,Positive
+285,56,Female,Yes,9,Housewife,Bronchitis,86,No,Yes,No,Negative
+286,85,Female,Yes,7,Student,Bronchitis,88,Yes,Yes,Yes,Positive
+287,19,Male,No,2,Office Job,Lung Cancer,86,Yes,No,Yes,Negative
+288,56,Female,Yes,0,Student,COPD,76,No,No,No,Negative
+289,31,Female,No,36,Student,Lung Cancer,96,Yes,Yes,Yes,Positive
+290,35,Male,Yes,38,Housewife,Lung Cancer,82,Yes,No,No,Positive
+291,51,Male,Yes,25,Student,Asthma,82,Yes,Yes,No,Negative
+292,32,Male,Yes,34,Office Job,Bronchitis,82,No,No,Yes,Positive
+293,31,Female,No,35,Office Job,COPD,95,No,No,Yes,Positive
+294,37,Male,No,5,Factory Worker,Bronchitis,84,Yes,No,No,Negative
+295,52,Female,Yes,19,Farmer,Asthma,93,No,Yes,No,Positive
+296,54,Male,No,13,Driver,Normal,77,Yes,No,No,Positive
+297,44,Male,No,22,Farmer,Bronchitis,97,No,No,No,Positive
+298,61,Male,Yes,13,Housewife,Asthma,77,No,Yes,No,Negative
+299,44,Male,Yes,26,Student,Pneumonia,84,No,No,Yes,Negative
+300,51,Female,Yes,32,Factory Worker,Bronchitis,78,No,No,Yes,Positive
+301,82,Female,Yes,9,Factory Worker,COPD,85,Yes,Yes,No,Positive
+302,80,Female,No,10,Housewife,Asthma,80,Yes,Yes,No,Negative
+303,50,Female,Yes,11,Driver,Normal,75,Yes,Yes,Yes,Positive
+304,24,Female,No,14,Driver,Bronchitis,92,Yes,No,No,Positive
+305,29,Male,Yes,39,Farmer,Asthma,85,Yes,Yes,Yes,Negative
+306,72,Male,No,16,Farmer,Normal,76,No,No,Yes,Positive
+307,53,Female,Yes,12,Office Job,Pneumonia,89,No,Yes,Yes,Negative
+308,23,Female,Yes,7,Farmer,COPD,96,Yes,No,Yes,Positive
+309,18,Male,Yes,11,Farmer,Bronchitis,88,No,Yes,No,Positive
+310,60,Female,Yes,36,Student,Pneumonia,93,Yes,No,Yes,Negative
+311,34,Female,Yes,3,Housewife,Lung Cancer,91,No,No,Yes,Negative
+312,51,Male,Yes,35,Factory Worker,COPD,88,No,No,Yes,Negative
+313,38,Female,No,29,Farmer,COPD,83,No,Yes,Yes,Negative
+314,74,Female,No,35,Office Job,COPD,75,Yes,Yes,No,Negative
+315,72,Female,No,4,Farmer,COPD,97,No,Yes,No,Negative
+316,19,Female,Yes,18,Student,Normal,90,Yes,No,Yes,Negative
+317,32,Female,No,4,Driver,Pneumonia,93,No,Yes,No,Positive
+318,27,Female,Yes,16,Student,Lung Cancer,75,Yes,Yes,Yes,Positive
+319,37,Male,No,6,Office Job,Bronchitis,85,Yes,No,No,Positive
+320,22,Female,Yes,12,Driver,COPD,87,No,Yes,Yes,Positive
+321,65,Female,Yes,37,Factory Worker,Bronchitis,93,Yes,No,No,Positive
+322,36,Female,No,31,Office Job,Asthma,87,Yes,Yes,No,Negative
+323,73,Female,No,21,Office Job,Pneumonia,85,Yes,No,No,Positive
+324,34,Male,No,22,Housewife,Pneumonia,93,No,No,Yes,Negative
+325,23,Female,Yes,8,Farmer,COPD,78,No,No,Yes,Positive
+326,57,Male,No,15,Office Job,COPD,90,No,Yes,Yes,Positive
+327,64,Female,Yes,6,Housewife,Pneumonia,78,Yes,Yes,Yes,Negative
+328,23,Male,No,18,Factory Worker,Bronchitis,97,Yes,No,No,Negative
+329,63,Female,No,39,Factory Worker,Lung Cancer,96,Yes,Yes,No,Negative
+330,44,Female,No,4,Housewife,Asthma,81,No,Yes,No,Negative
+331,49,Male,Yes,12,Factory Worker,Pneumonia,85,Yes,No,Yes,Positive
+332,31,Male,No,20,Office Job,Lung Cancer,90,Yes,Yes,No,Positive
+333,63,Female,Yes,31,Student,Bronchitis,91,No,No,Yes,Positive
+334,70,Female,No,28,Office Job,Normal,99,No,Yes,Yes,Positive
+335,37,Female,Yes,21,Farmer,COPD,96,Yes,Yes,No,Positive
+336,48,Female,No,39,Factory Worker,Normal,85,Yes,Yes,No,Positive
+337,38,Female,Yes,19,Farmer,Pneumonia,80,No,No,Yes,Positive
+338,40,Male,Yes,37,Housewife,Bronchitis,94,No,No,No,Positive
+339,70,Female,Yes,9,Factory Worker,Bronchitis,84,Yes,Yes,Yes,Positive
+340,21,Female,Yes,36,Farmer,Bronchitis,86,Yes,No,Yes,Negative
+341,40,Female,Yes,36,Driver,Bronchitis,88,Yes,No,No,Positive
+342,60,Male,Yes,23,Driver,Pneumonia,81,No,No,Yes,Negative
+343,70,Female,Yes,20,Factory Worker,COPD,90,No,Yes,Yes,Positive
+344,49,Female,Yes,27,Farmer,Normal,95,No,Yes,Yes,Positive
+345,52,Female,No,10,Office Job,Asthma,77,No,Yes,Yes,Positive
+346,38,Male,No,0,Housewife,COPD,92,No,No,No,Negative
+347,31,Male,No,20,Student,Bronchitis,81,Yes,No,Yes,Negative
+348,66,Female,Yes,15,Office Job,Pneumonia,84,No,Yes,No,Negative
+349,22,Female,Yes,14,Office Job,Bronchitis,83,Yes,No,Yes,Negative
+350,78,Male,Yes,27,Student,COPD,76,Yes,No,No,Negative
+351,46,Male,No,17,Student,Normal,84,Yes,No,No,Positive
+352,43,Male,Yes,23,Farmer,Normal,93,No,Yes,No,Positive
+353,76,Female,No,8,Student,Lung Cancer,87,Yes,No,No,Negative
+354,62,Male,Yes,21,Driver,Lung Cancer,82,No,Yes,Yes,Negative
+355,57,Male,No,30,Student,Pneumonia,94,Yes,Yes,Yes,Negative
+356,47,Male,No,29,Housewife,Lung Cancer,98,Yes,Yes,No,Negative
+357,46,Male,No,28,Office Job,Bronchitis,77,No,Yes,No,Negative
+358,21,Female,Yes,22,Housewife,COPD,97,No,No,Yes,Negative
+359,42,Female,No,19,Housewife,Pneumonia,93,Yes,No,Yes,Negative
+360,69,Female,Yes,31,Housewife,Pneumonia,78,No,Yes,No,Positive
+361,60,Male,Yes,35,Factory Worker,COPD,93,No,No,No,Positive
+362,53,Male,Yes,6,Driver,Lung Cancer,85,No,Yes,No,Positive
+363,26,Female,Yes,11,Student,Normal,83,No,No,Yes,Negative
+364,53,Female,Yes,38,Housewife,Lung Cancer,77,No,No,No,Positive
+365,62,Female,No,5,Student,COPD,93,Yes,Yes,No,Negative
+366,83,Female,Yes,17,Factory Worker,Bronchitis,91,No,No,No,Negative
+367,69,Male,No,8,Farmer,Lung Cancer,90,No,No,Yes,Negative
+368,60,Male,No,34,Office Job,Pneumonia,88,Yes,No,Yes,Negative
+369,21,Female,No,12,Factory Worker,Asthma,81,No,No,No,Positive
+370,32,Female,No,16,Farmer,Asthma,86,No,No,No,Negative
+371,51,Female,Yes,40,Office Job,Normal,77,Yes,No,Yes,Negative
+372,40,Female,No,4,Housewife,COPD,95,Yes,Yes,No,Positive
+373,51,Male,Yes,4,Student,Bronchitis,84,Yes,No,Yes,Positive
+374,22,Male,No,1,Farmer,Pneumonia,91,No,Yes,No,Negative
+375,31,Male,Yes,32,Factory Worker,Asthma,84,Yes,No,Yes,Negative
+376,73,Male,No,40,Driver,Lung Cancer,88,Yes,No,No,Negative
+377,62,Female,No,1,Housewife,Pneumonia,96,Yes,No,No,Negative
+378,58,Female,Yes,37,Factory Worker,Bronchitis,92,No,Yes,No,Positive
+379,73,Male,No,37,Factory Worker,COPD,85,No,Yes,Yes,Positive
+380,83,Female,No,25,Driver,Pneumonia,81,No,Yes,Yes,Negative
+381,32,Female,No,37,Housewife,Pneumonia,88,Yes,Yes,Yes,Negative
+382,67,Female,Yes,13,Farmer,Lung Cancer,87,Yes,Yes,Yes,Positive
+383,42,Male,Yes,2,Housewife,Bronchitis,83,Yes,Yes,Yes,Positive
+384,50,Female,Yes,35,Housewife,COPD,94,No,Yes,Yes,Positive
+385,23,Female,Yes,16,Farmer,Pneumonia,91,Yes,Yes,Yes,Negative
+386,73,Male,No,34,Factory Worker,Bronchitis,89,No,No,Yes,Negative
+387,18,Male,Yes,34,Factory Worker,Pneumonia,96,No,No,No,Positive
+388,84,Male,Yes,30,Farmer,Asthma,99,No,Yes,Yes,Positive
+389,43,Male,No,9,Housewife,Asthma,92,No,No,Yes,Negative
+390,64,Female,Yes,23,Driver,COPD,80,Yes,Yes,Yes,Negative
+391,73,Male,No,25,Office Job,Asthma,75,Yes,No,No,Positive
+392,26,Female,Yes,14,Driver,COPD,95,Yes,No,Yes,Negative
+393,60,Male,No,37,Student,Pneumonia,97,No,Yes,No,Negative
+394,58,Female,No,18,Housewife,Normal,91,No,No,No,Positive
+395,33,Female,Yes,8,Factory Worker,Asthma,80,Yes,Yes,No,Negative
+396,56,Male,Yes,29,Farmer,Bronchitis,93,No,Yes,Yes,Positive
+397,82,Female,Yes,32,Driver,Bronchitis,90,Yes,Yes,Yes,Negative
+398,57,Female,No,32,Student,COPD,81,Yes,No,No,Negative
+399,70,Male,No,5,Student,Normal,96,Yes,No,No,Negative
+400,59,Male,Yes,25,Factory Worker,Pneumonia,98,No,Yes,Yes,Positive
+401,69,Female,Yes,23,Office Job,Lung Cancer,89,No,Yes,Yes,Negative
+402,55,Male,No,32,Office Job,Bronchitis,83,Yes,No,Yes,Negative
+403,34,Male,Yes,0,Student,Normal,95,Yes,Yes,No,Positive
+404,42,Male,Yes,15,Driver,Bronchitis,92,No,Yes,No,Positive
+405,71,Male,Yes,39,Student,COPD,94,Yes,Yes,No,Negative
+406,66,Male,No,10,Housewife,COPD,99,Yes,Yes,Yes,Negative
+407,40,Female,No,32,Factory Worker,Lung Cancer,88,No,No,Yes,Negative
+408,56,Male,No,8,Factory Worker,COPD,93,No,Yes,Yes,Positive
+409,69,Female,Yes,28,Office Job,Lung Cancer,98,Yes,No,No,Negative
+410,18,Female,Yes,10,Student,Pneumonia,95,No,Yes,No,Positive
+411,56,Female,Yes,11,Farmer,COPD,76,No,No,Yes,Positive
+412,54,Male,No,36,Farmer,Bronchitis,91,Yes,No,Yes,Negative
+413,44,Male,Yes,36,Driver,COPD,81,Yes,No,No,Positive
+414,73,Male,Yes,9,Driver,Asthma,86,Yes,Yes,Yes,Positive
+415,59,Female,No,30,Housewife,Pneumonia,89,No,No,Yes,Positive
+416,77,Female,Yes,22,Office Job,Pneumonia,79,Yes,Yes,Yes,Positive
+417,74,Female,Yes,2,Factory Worker,Normal,82,No,No,No,Positive
+418,74,Female,No,14,Farmer,Bronchitis,79,No,Yes,No,Negative
+419,45,Female,No,31,Housewife,Pneumonia,98,Yes,Yes,Yes,Positive
+420,83,Male,No,14,Farmer,Normal,96,Yes,No,Yes,Positive
+421,78,Male,No,4,Farmer,Asthma,99,Yes,No,No,Negative
+422,39,Female,No,16,Housewife,Pneumonia,84,Yes,No,No,Positive
+423,28,Male,No,23,Farmer,Normal,88,Yes,No,No,Negative
+424,54,Female,No,14,Office Job,Asthma,88,Yes,No,Yes,Positive
+425,83,Female,No,2,Student,COPD,85,Yes,Yes,Yes,Negative
+426,60,Female,Yes,13,Farmer,COPD,77,No,Yes,No,Positive
+427,29,Male,Yes,33,Factory Worker,Pneumonia,95,Yes,No,Yes,Positive
+428,48,Male,Yes,23,Housewife,Asthma,81,No,Yes,Yes,Negative
+429,57,Male,Yes,24,Farmer,Bronchitis,88,Yes,No,Yes,Negative
+430,46,Female,Yes,30,Driver,Pneumonia,83,Yes,Yes,No,Positive
+431,43,Male,Yes,29,Factory Worker,COPD,84,No,No,No,Negative
+432,36,Male,Yes,2,Student,Bronchitis,95,No,No,Yes,Positive
+433,21,Male,Yes,2,Farmer,Normal,80,Yes,Yes,No,Negative
+434,23,Female,No,20,Office Job,COPD,83,No,No,Yes,Negative
+435,49,Male,No,6,Office Job,Asthma,96,Yes,Yes,No,Positive
+436,78,Male,No,33,Farmer,Pneumonia,94,No,No,Yes,Positive
+437,27,Female,No,40,Driver,Pneumonia,82,No,No,Yes,Positive
+438,76,Male,Yes,17,Housewife,Asthma,87,No,No,Yes,Positive
+439,71,Female,No,16,Office Job,COPD,82,No,No,No,Negative
+440,42,Female,Yes,37,Factory Worker,Asthma,78,Yes,Yes,Yes,Positive
+441,67,Male,No,34,Housewife,Pneumonia,79,No,Yes,Yes,Positive
+442,81,Female,No,36,Driver,COPD,81,No,No,Yes,Negative
+443,69,Male,No,11,Student,Lung Cancer,75,No,Yes,Yes,Positive
+444,49,Female,No,24,Housewife,COPD,82,Yes,No,Yes,Negative
+445,36,Male,Yes,24,Student,Bronchitis,84,Yes,No,No,Positive
+446,18,Female,Yes,23,Housewife,Normal,89,Yes,Yes,No,Negative
+447,31,Male,Yes,37,Housewife,Asthma,90,No,Yes,No,Positive
+448,72,Male,No,4,Office Job,Normal,92,No,No,No,Positive
+449,46,Male,Yes,33,Driver,COPD,88,No,No,No,Negative
+450,40,Male,Yes,16,Office Job,COPD,88,No,Yes,No,Negative
+451,84,Female,No,24,Student,COPD,95,Yes,Yes,No,Negative
+452,77,Male,Yes,14,Office Job,Bronchitis,76,No,Yes,No,Positive
+453,24,Male,Yes,33,Driver,Normal,81,Yes,No,No,Negative
+454,49,Male,Yes,25,Farmer,Normal,80,No,Yes,No,Negative
+455,33,Male,No,22,Student,Asthma,83,Yes,No,Yes,Positive
+456,76,Female,No,22,Farmer,COPD,79,Yes,Yes,No,Negative
+457,35,Male,Yes,31,Driver,Asthma,75,Yes,Yes,No,Positive
+458,77,Female,No,30,Student,Bronchitis,83,No,No,No,Positive
+459,85,Male,No,38,Office Job,Lung Cancer,83,Yes,Yes,No,Positive
+460,58,Female,Yes,0,Office Job,Pneumonia,96,Yes,No,Yes,Positive
+461,74,Female,Yes,32,Housewife,Pneumonia,92,Yes,No,No,Positive
+462,82,Female,No,8,Office Job,Bronchitis,80,Yes,No,Yes,Positive
+463,72,Female,No,28,Student,Lung Cancer,95,No,No,Yes,Negative
+464,75,Male,Yes,10,Student,COPD,76,No,No,No,Positive
+465,38,Female,Yes,14,Housewife,Pneumonia,98,Yes,No,Yes,Positive
+466,78,Female,No,4,Office Job,Normal,90,Yes,Yes,Yes,Positive
+467,75,Female,Yes,32,Office Job,Normal,75,Yes,No,No,Positive
+468,51,Male,Yes,17,Farmer,Asthma,76,No,Yes,No,Negative
+469,49,Male,Yes,13,Housewife,Lung Cancer,77,No,No,Yes,Negative
+470,53,Male,Yes,9,Housewife,Asthma,85,Yes,No,Yes,Positive
+471,84,Female,Yes,11,Student,COPD,94,No,Yes,No,Positive
+472,80,Female,Yes,10,Office Job,Normal,84,No,Yes,No,Negative
+473,48,Female,Yes,23,Driver,Asthma,77,Yes,No,Yes,Positive
+474,53,Female,Yes,38,Office Job,Lung Cancer,88,Yes,No,Yes,Positive
+475,74,Male,No,7,Housewife,COPD,86,No,Yes,Yes,Negative
+476,27,Female,No,14,Student,COPD,96,Yes,No,No,Positive
+477,54,Male,Yes,26,Office Job,Lung Cancer,96,No,Yes,Yes,Negative
+478,48,Female,No,21,Farmer,Asthma,77,Yes,Yes,No,Negative
+479,52,Female,Yes,7,Factory Worker,Bronchitis,87,No,Yes,No,Positive
+480,60,Female,Yes,30,Student,Asthma,98,Yes,No,Yes,Negative
+481,58,Female,Yes,30,Student,Pneumonia,79,Yes,Yes,No,Positive
+482,28,Male,Yes,30,Housewife,Lung Cancer,82,No,Yes,No,Negative
+483,35,Female,No,13,Factory Worker,Normal,78,Yes,No,No,Negative
+484,37,Male,Yes,37,Office Job,Asthma,93,No,No,No,Positive
+485,47,Female,Yes,10,Farmer,Bronchitis,98,Yes,No,No,Positive
+486,67,Male,No,26,Office Job,Asthma,91,Yes,Yes,No,Negative
+487,37,Female,Yes,1,Housewife,Normal,78,Yes,Yes,No,Positive
+488,45,Male,Yes,15,Factory Worker,COPD,91,Yes,Yes,Yes,Positive
+489,26,Female,No,2,Farmer,Asthma,96,No,No,Yes,Negative
+490,71,Female,Yes,8,Driver,COPD,93,No,No,No,Negative
+491,70,Male,Yes,36,Driver,Pneumonia,99,Yes,Yes,Yes,Negative
+492,60,Male,No,37,Farmer,Normal,91,Yes,No,No,Negative
+493,77,Male,No,10,Driver,Bronchitis,83,Yes,No,No,Positive
+494,71,Male,No,8,Housewife,Asthma,90,No,No,No,Negative
+495,25,Female,Yes,40,Housewife,COPD,77,Yes,Yes,No,Negative
+496,44,Female,No,32,Housewife,Bronchitis,82,No,No,Yes,Negative
+497,71,Female,No,2,Farmer,COPD,94,No,No,Yes,Negative
+498,67,Male,Yes,36,Office Job,COPD,78,Yes,No,No,Negative
+499,20,Male,No,9,Office Job,COPD,99,Yes,Yes,Yes,Positive
+500,66,Female,Yes,3,Factory Worker,Asthma,85,Yes,Yes,No,Positive
+501,79,Female,Yes,10,Office Job,COPD,85,Yes,Yes,Yes,Negative
+502,18,Male,No,16,Office Job,Pneumonia,93,No,Yes,No,Positive
+503,63,Male,No,11,Factory Worker,Pneumonia,98,No,Yes,Yes,Positive
+504,56,Female,No,33,Student,Normal,87,No,Yes,No,Negative
+505,67,Female,Yes,25,Student,Lung Cancer,98,Yes,No,No,Negative
+506,71,Female,Yes,38,Farmer,Bronchitis,98,No,Yes,No,Negative
+507,46,Female,Yes,36,Student,Pneumonia,82,Yes,Yes,Yes,Positive
+508,80,Female,No,40,Student,Bronchitis,88,Yes,Yes,No,Negative
+509,46,Male,No,1,Student,Pneumonia,81,No,No,Yes,Negative
+510,52,Male,No,18,Office Job,Asthma,79,No,No,No,Positive
+511,73,Female,No,5,Student,Asthma,78,No,Yes,Yes,Positive
+512,80,Female,Yes,13,Office Job,Asthma,80,No,No,Yes,Negative
+513,21,Male,Yes,28,Office Job,Pneumonia,81,Yes,No,No,Positive
+514,67,Male,No,38,Housewife,Lung Cancer,83,No,No,Yes,Negative
+515,61,Female,No,30,Factory Worker,Normal,89,Yes,No,Yes,Negative
+516,69,Male,Yes,30,Farmer,Bronchitis,88,No,No,No,Positive
+517,39,Male,No,10,Factory Worker,Bronchitis,83,No,Yes,No,Positive
+518,77,Female,Yes,14,Housewife,Asthma,93,Yes,No,Yes,Positive
+519,34,Female,Yes,26,Driver,Asthma,76,Yes,Yes,No,Negative
+520,21,Female,Yes,38,Office Job,Normal,90,Yes,Yes,No,Positive
+521,68,Female,No,9,Student,Pneumonia,92,Yes,Yes,Yes,Negative
+522,21,Male,No,37,Student,COPD,86,Yes,Yes,Yes,Negative
+523,28,Male,No,11,Driver,Normal,97,Yes,No,No,Negative
+524,72,Female,No,39,Housewife,Asthma,78,Yes,Yes,Yes,Negative
+525,35,Male,No,32,Housewife,Pneumonia,85,No,No,No,Positive
+526,77,Female,No,16,Farmer,Bronchitis,92,No,Yes,No,Negative
+527,41,Female,No,10,Office Job,Normal,88,No,No,Yes,Positive
+528,24,Female,No,21,Driver,COPD,90,No,Yes,Yes,Negative
+529,51,Female,Yes,29,Driver,Pneumonia,96,No,No,No,Positive
+530,66,Male,Yes,38,Driver,Lung Cancer,82,Yes,Yes,Yes,Positive
+531,59,Female,No,37,Office Job,Lung Cancer,83,Yes,Yes,Yes,Negative
+532,45,Male,Yes,4,Office Job,Bronchitis,79,Yes,Yes,No,Negative
+533,76,Male,Yes,14,Office Job,COPD,86,Yes,Yes,Yes,Negative
+534,59,Female,No,24,Office Job,Normal,90,Yes,Yes,No,Negative
+535,61,Female,Yes,24,Factory Worker,Asthma,97,Yes,Yes,Yes,Positive
+536,66,Male,No,8,Driver,Asthma,86,No,Yes,Yes,Positive
+537,53,Female,No,6,Factory Worker,COPD,84,No,No,No,Negative
+538,71,Female,Yes,1,Farmer,Normal,75,No,Yes,No,Negative
+539,50,Female,Yes,12,Driver,COPD,95,No,No,Yes,Positive
+540,28,Male,Yes,33,Office Job,Normal,94,Yes,Yes,No,Negative
+541,78,Male,Yes,32,Housewife,Lung Cancer,76,Yes,Yes,No,Positive
+542,20,Male,Yes,26,Housewife,Normal,98,No,No,No,Positive
+543,24,Female,No,9,Office Job,Normal,96,No,Yes,Yes,Negative
+544,62,Female,Yes,38,Office Job,Asthma,76,No,Yes,No,Negative
+545,46,Female,Yes,6,Factory Worker,Bronchitis,97,No,Yes,No,Negative
+546,26,Female,No,11,Office Job,Pneumonia,96,No,Yes,No,Negative
+547,23,Male,No,30,Driver,Pneumonia,82,Yes,No,Yes,Negative
+548,21,Male,Yes,39,Student,Asthma,83,Yes,No,No,Positive
+549,49,Female,Yes,38,Driver,Lung Cancer,92,Yes,No,No,Negative
+550,43,Male,Yes,2,Housewife,COPD,87,Yes,Yes,Yes,Negative
+551,20,Male,No,34,Farmer,Asthma,84,Yes,Yes,Yes,Negative
+552,37,Male,No,32,Driver,COPD,95,No,No,No,Negative
+553,48,Male,Yes,7,Office Job,Asthma,97,No,No,Yes,Negative
+554,34,Female,No,5,Driver,Pneumonia,86,Yes,No,No,Negative
+555,78,Female,Yes,30,Driver,Bronchitis,96,Yes,Yes,Yes,Positive
+556,32,Female,Yes,8,Factory Worker,Bronchitis,78,Yes,No,No,Positive
+557,45,Male,No,38,Student,Asthma,92,Yes,Yes,No,Positive
+558,77,Male,No,34,Housewife,Asthma,82,No,No,Yes,Negative
+559,50,Female,Yes,0,Driver,Pneumonia,89,Yes,Yes,No,Negative
+560,65,Female,No,27,Housewife,COPD,87,No,No,No,Negative
+561,39,Male,Yes,33,Farmer,COPD,75,No,No,Yes,Negative
+562,32,Female,Yes,26,Driver,Pneumonia,87,No,No,No,Positive
+563,38,Female,Yes,23,Student,Lung Cancer,83,No,No,No,Positive
+564,57,Female,Yes,2,Housewife,Lung Cancer,84,No,No,Yes,Positive
+565,31,Female,Yes,33,Student,Asthma,77,No,Yes,Yes,Negative
+566,21,Female,Yes,27,Student,Bronchitis,99,No,No,No,Positive
+567,57,Female,No,14,Student,Lung Cancer,82,Yes,Yes,No,Positive
+568,66,Male,Yes,30,Student,Lung Cancer,84,Yes,Yes,No,Positive
+569,68,Female,No,24,Housewife,Normal,81,No,Yes,No,Negative
+570,43,Female,Yes,22,Housewife,Bronchitis,80,Yes,Yes,No,Positive
+571,27,Male,Yes,37,Factory Worker,COPD,89,No,Yes,No,Positive
+572,49,Female,No,36,Student,COPD,95,Yes,No,No,Negative
+573,31,Female,Yes,6,Factory Worker,Pneumonia,85,Yes,Yes,No,Positive
+574,56,Male,No,27,Driver,COPD,99,Yes,No,No,Negative
+575,33,Female,Yes,8,Driver,Normal,95,Yes,No,No,Negative
+576,23,Female,Yes,16,Factory Worker,Asthma,88,No,No,Yes,Negative
+577,62,Male,Yes,30,Office Job,Asthma,76,Yes,Yes,Yes,Positive
+578,72,Male,Yes,14,Student,COPD,83,Yes,No,No,Negative
+579,65,Female,Yes,5,Student,Bronchitis,77,No,Yes,Yes,Positive
+580,26,Male,No,18,Driver,Normal,99,No,No,Yes,Positive
+581,82,Female,Yes,38,Housewife,COPD,90,No,No,No,Positive
+582,61,Male,No,34,Factory Worker,COPD,90,Yes,No,Yes,Positive
+583,19,Male,No,26,Student,Asthma,98,No,No,No,Negative
+584,71,Male,Yes,16,Driver,Pneumonia,88,Yes,No,Yes,Negative
+585,80,Male,No,12,Student,Bronchitis,85,Yes,Yes,No,Positive
+586,31,Male,No,0,Housewife,Normal,97,No,Yes,Yes,Positive
+587,73,Male,No,0,Factory Worker,Normal,88,Yes,Yes,No,Positive
+588,64,Female,Yes,36,Office Job,Lung Cancer,78,Yes,Yes,Yes,Positive
+589,76,Female,Yes,33,Farmer,Bronchitis,80,No,No,No,Negative
+590,37,Female,No,7,Driver,Asthma,97,Yes,No,Yes,Positive
+591,73,Male,No,33,Driver,Pneumonia,83,Yes,No,No,Positive
+592,40,Female,No,0,Farmer,Pneumonia,91,Yes,No,No,Positive
+593,84,Male,Yes,24,Farmer,Lung Cancer,77,No,Yes,Yes,Negative
+594,52,Female,No,13,Driver,Asthma,86,No,No,Yes,Positive
+595,79,Female,Yes,20,Office Job,COPD,88,Yes,Yes,Yes,Negative
+596,77,Male,Yes,26,Driver,Lung Cancer,94,No,No,No,Positive
+597,73,Male,No,23,Farmer,Asthma,98,Yes,Yes,Yes,Negative
+598,52,Male,No,6,Student,COPD,92,Yes,Yes,No,Positive
+599,59,Female,No,9,Factory Worker,Asthma,98,Yes,Yes,Yes,Negative
+600,49,Female,Yes,27,Housewife,Pneumonia,85,Yes,Yes,No,Negative
+601,29,Female,Yes,37,Student,Bronchitis,89,No,Yes,No,Positive
+602,53,Female,Yes,16,Office Job,Asthma,97,Yes,Yes,No,Negative
+603,75,Male,No,16,Driver,Bronchitis,75,Yes,Yes,Yes,Negative
+604,49,Female,Yes,34,Housewife,Asthma,99,No,No,Yes,Negative
+605,77,Female,Yes,27,Driver,COPD,76,Yes,Yes,Yes,Positive
+606,66,Female,No,36,Factory Worker,Bronchitis,95,No,Yes,Yes,Positive
+607,61,Female,Yes,23,Housewife,Normal,95,Yes,No,Yes,Negative
+608,21,Female,Yes,39,Student,Bronchitis,80,Yes,No,No,Positive
+609,81,Male,No,17,Factory Worker,COPD,95,Yes,No,Yes,Negative
+610,59,Male,Yes,25,Office Job,Bronchitis,89,Yes,Yes,Yes,Positive
+611,41,Female,No,13,Student,Asthma,95,Yes,Yes,Yes,Negative
+612,80,Female,Yes,26,Housewife,Asthma,79,No,Yes,No,Negative
+613,45,Male,Yes,35,Student,Normal,75,Yes,Yes,No,Negative
+614,63,Female,No,35,Office Job,Bronchitis,87,Yes,Yes,Yes,Negative
+615,51,Female,No,30,Driver,Asthma,81,Yes,No,No,Negative
+616,61,Male,Yes,11,Driver,Bronchitis,95,No,No,Yes,Positive
+617,53,Female,Yes,23,Farmer,Lung Cancer,84,Yes,No,Yes,Negative
+618,53,Female,No,35,Driver,Asthma,85,No,No,Yes,Negative
+619,19,Female,No,35,Factory Worker,Bronchitis,93,Yes,No,Yes,Positive
+620,84,Female,Yes,30,Office Job,Pneumonia,77,No,Yes,Yes,Positive
+621,42,Female,No,16,Driver,Asthma,78,No,No,Yes,Positive
+622,28,Female,Yes,19,Student,Pneumonia,80,Yes,Yes,Yes,Positive
+623,48,Male,Yes,36,Housewife,Lung Cancer,82,No,No,Yes,Negative
+624,70,Female,Yes,22,Office Job,Lung Cancer,91,No,No,Yes,Negative
+625,80,Female,No,25,Driver,Asthma,97,Yes,Yes,Yes,Negative
+626,48,Female,No,8,Factory Worker,Lung Cancer,99,No,Yes,No,Positive
+627,78,Male,Yes,7,Farmer,Asthma,95,Yes,No,Yes,Negative
+628,80,Female,Yes,14,Farmer,COPD,99,Yes,Yes,No,Positive
+629,75,Male,Yes,28,Housewife,Pneumonia,79,Yes,No,No,Positive
+630,20,Female,No,10,Housewife,Normal,94,Yes,Yes,Yes,Positive
+631,29,Male,No,6,Housewife,COPD,96,Yes,Yes,Yes,Negative
+632,55,Female,No,13,Office Job,Lung Cancer,88,Yes,Yes,No,Positive
+633,46,Female,Yes,32,Housewife,Asthma,85,No,No,No,Positive
+634,69,Female,No,25,Housewife,COPD,89,No,No,No,Positive
+635,49,Female,No,21,Factory Worker,Bronchitis,90,No,Yes,Yes,Negative
+636,57,Male,No,35,Factory Worker,Bronchitis,98,No,Yes,Yes,Negative
+637,65,Male,No,39,Factory Worker,Bronchitis,79,Yes,No,No,Positive
+638,78,Female,No,3,Housewife,Asthma,83,Yes,No,No,Negative
+639,85,Female,Yes,10,Driver,Lung Cancer,80,Yes,No,Yes,Negative
+640,62,Male,No,24,Housewife,Asthma,96,No,No,No,Positive
+641,72,Male,Yes,40,Farmer,Lung Cancer,93,Yes,No,Yes,Negative
+642,60,Male,Yes,0,Factory Worker,Normal,85,No,Yes,Yes,Positive
+643,63,Male,No,5,Student,Asthma,84,Yes,Yes,Yes,Negative
+644,76,Male,Yes,9,Housewife,Pneumonia,81,Yes,Yes,Yes,Negative
+645,52,Male,Yes,30,Driver,Normal,77,No,Yes,Yes,Negative
+646,57,Male,No,38,Housewife,Asthma,88,Yes,Yes,Yes,Negative
+647,50,Male,Yes,27,Student,Normal,86,No,Yes,Yes,Positive
+648,47,Male,No,5,Student,Normal,80,Yes,No,No,Negative
+649,33,Female,No,4,Office Job,Asthma,87,Yes,No,No,Negative
+650,42,Female,Yes,16,Driver,COPD,87,No,No,No,Positive
+651,58,Female,Yes,14,Student,Bronchitis,93,Yes,Yes,No,Positive
+652,33,Male,No,23,Driver,Normal,82,Yes,No,Yes,Negative
+653,41,Male,Yes,5,Factory Worker,Bronchitis,75,No,No,No,Positive
+654,42,Male,No,38,Office Job,Asthma,75,No,Yes,No,Negative
+655,45,Male,Yes,2,Farmer,Normal,92,No,Yes,No,Positive
+656,79,Female,Yes,24,Student,Bronchitis,95,No,Yes,No,Negative
+657,53,Female,Yes,25,Housewife,Bronchitis,94,Yes,Yes,No,Positive
+658,85,Female,No,39,Office Job,Lung Cancer,95,No,Yes,Yes,Negative
+659,54,Male,No,33,Office Job,COPD,82,No,No,No,Positive
+660,30,Female,Yes,18,Office Job,Pneumonia,77,No,Yes,No,Positive
+661,42,Female,No,38,Office Job,Bronchitis,89,No,Yes,No,Negative
+662,55,Female,Yes,3,Housewife,Pneumonia,81,No,No,Yes,Positive
+663,47,Male,No,11,Factory Worker,Asthma,83,No,Yes,Yes,Negative
+664,64,Male,Yes,40,Driver,Asthma,97,No,No,No,Negative
+665,40,Male,Yes,31,Farmer,Lung Cancer,80,Yes,Yes,No,Positive
+666,56,Male,Yes,28,Farmer,Bronchitis,76,Yes,Yes,Yes,Negative
+667,19,Male,No,0,Housewife,Normal,87,Yes,Yes,No,Negative
+668,34,Female,Yes,12,Driver,Asthma,94,Yes,Yes,Yes,Negative
+669,53,Male,Yes,33,Farmer,Normal,88,No,Yes,No,Positive
+670,23,Male,No,18,Housewife,Asthma,94,Yes,No,Yes,Negative
+671,24,Female,No,12,Office Job,Normal,83,No,No,No,Negative
+672,55,Female,No,2,Factory Worker,COPD,79,Yes,No,Yes,Negative
+673,34,Male,No,38,Office Job,Bronchitis,77,No,Yes,No,Positive
+674,80,Female,Yes,32,Office Job,COPD,86,No,No,Yes,Negative
+675,31,Male,Yes,33,Factory Worker,COPD,80,No,Yes,No,Negative
+676,19,Male,Yes,14,Student,Bronchitis,93,Yes,No,No,Negative
+677,54,Female,No,39,Farmer,Pneumonia,78,No,No,No,Negative
+678,78,Male,No,10,Factory Worker,Normal,75,No,No,Yes,Negative
+679,79,Female,Yes,2,Driver,COPD,97,Yes,Yes,Yes,Positive
+680,74,Female,Yes,23,Driver,Bronchitis,91,Yes,Yes,No,Positive
+681,61,Female,No,15,Driver,Normal,88,Yes,No,Yes,Negative
+682,41,Female,Yes,0,Student,Bronchitis,99,No,Yes,No,Negative
+683,24,Male,No,10,Factory Worker,Bronchitis,89,No,No,No,Positive
+684,50,Female,Yes,5,Student,Pneumonia,96,No,Yes,Yes,Positive
+685,79,Female,No,17,Driver,COPD,90,Yes,No,Yes,Positive
+686,32,Male,No,25,Office Job,Bronchitis,78,Yes,Yes,Yes,Negative
+687,26,Male,Yes,22,Office Job,Bronchitis,82,No,Yes,No,Negative
+688,69,Female,Yes,25,Student,Asthma,97,No,No,No,Positive
+689,80,Male,Yes,25,Housewife,COPD,81,No,No,No,Negative
+690,27,Female,Yes,37,Driver,Normal,81,No,Yes,Yes,Negative
+691,24,Female,Yes,12,Driver,COPD,83,No,No,No,Positive
+692,37,Male,No,33,Driver,Pneumonia,84,No,Yes,No,Negative
+693,37,Male,Yes,0,Driver,Pneumonia,98,No,No,No,Negative
+694,56,Female,No,4,Factory Worker,Bronchitis,90,No,No,Yes,Positive
+695,28,Female,Yes,5,Student,Asthma,87,No,Yes,No,Positive
+696,49,Male,No,35,Student,Asthma,79,No,No,No,Negative
+697,33,Male,No,18,Factory Worker,Lung Cancer,88,No,Yes,No,Negative
+698,71,Female,No,35,Office Job,Lung Cancer,81,No,No,Yes,Negative
+699,46,Female,No,37,Student,Asthma,94,Yes,Yes,No,Positive
+700,84,Female,No,22,Farmer,Pneumonia,81,Yes,No,Yes,Negative
+701,66,Male,Yes,22,Student,COPD,84,No,No,No,Negative
+702,75,Female,No,17,Housewife,COPD,98,Yes,Yes,No,Negative
+703,74,Male,Yes,14,Student,Bronchitis,96,No,No,No,Negative
+704,56,Male,No,38,Office Job,Pneumonia,81,Yes,Yes,Yes,Negative
+705,72,Male,No,12,Factory Worker,Lung Cancer,88,No,No,Yes,Positive
+706,57,Female,No,29,Office Job,Asthma,80,Yes,Yes,Yes,Negative
+707,25,Female,Yes,25,Office Job,Pneumonia,88,No,No,Yes,Positive
+708,30,Male,No,36,Factory Worker,Bronchitis,79,Yes,Yes,Yes,Negative
+709,44,Male,Yes,0,Housewife,Normal,75,No,Yes,Yes,Negative
+710,45,Female,No,16,Farmer,Pneumonia,84,Yes,Yes,Yes,Negative
+711,51,Female,No,11,Factory Worker,Normal,83,Yes,No,No,Positive
+712,28,Male,No,26,Office Job,COPD,82,Yes,Yes,No,Negative
+713,38,Female,No,32,Factory Worker,Bronchitis,94,Yes,No,No,Negative
+714,48,Female,Yes,6,Housewife,Bronchitis,89,No,Yes,Yes,Negative
+715,40,Female,No,35,Student,Asthma,82,Yes,No,Yes,Positive
+716,27,Female,Yes,4,Student,Pneumonia,86,Yes,Yes,Yes,Positive
+717,38,Male,Yes,32,Farmer,Bronchitis,93,No,Yes,Yes,Negative
+718,18,Female,Yes,18,Farmer,Asthma,96,Yes,No,No,Positive
+719,70,Female,Yes,21,Factory Worker,Lung Cancer,95,No,Yes,No,Negative
+720,75,Male,No,7,Factory Worker,Pneumonia,89,No,Yes,Yes,Positive
+721,78,Male,No,32,Factory Worker,Bronchitis,77,No,Yes,Yes,Positive
+722,55,Male,Yes,16,Driver,Pneumonia,75,No,Yes,No,Positive
+723,22,Female,Yes,34,Office Job,Pneumonia,90,Yes,No,Yes,Positive
+724,47,Female,No,36,Office Job,COPD,79,Yes,Yes,Yes,Positive
+725,54,Male,No,16,Housewife,Pneumonia,85,No,No,Yes,Positive
+726,54,Female,No,28,Farmer,COPD,97,Yes,No,No,Negative
+727,76,Female,Yes,24,Student,Bronchitis,87,No,Yes,No,Negative
+728,27,Male,No,36,Housewife,Pneumonia,96,No,Yes,Yes,Negative
+729,47,Female,No,30,Housewife,Lung Cancer,81,No,Yes,Yes,Negative
+730,51,Female,Yes,15,Housewife,Normal,97,No,Yes,No,Negative
+731,43,Male,No,21,Student,COPD,87,No,No,Yes,Positive
+732,72,Male,Yes,29,Student,Lung Cancer,97,Yes,No,No,Negative
+733,32,Male,Yes,29,Student,Bronchitis,88,No,Yes,No,Positive
+734,46,Female,Yes,37,Office Job,Lung Cancer,98,Yes,Yes,Yes,Positive
+735,37,Male,No,1,Driver,Pneumonia,94,No,Yes,Yes,Negative
+736,52,Female,Yes,30,Housewife,Normal,83,Yes,Yes,Yes,Negative
+737,36,Female,Yes,7,Student,Normal,77,Yes,Yes,No,Positive
+738,27,Female,Yes,16,Farmer,Normal,78,Yes,Yes,No,Positive
+739,25,Female,Yes,4,Factory Worker,Asthma,92,No,Yes,No,Positive
+740,39,Male,Yes,24,Factory Worker,Pneumonia,76,Yes,No,No,Negative
+741,57,Male,Yes,40,Farmer,COPD,76,No,Yes,Yes,Positive
+742,54,Male,No,14,Farmer,Normal,85,No,Yes,Yes,Negative
+743,74,Female,Yes,14,Farmer,Lung Cancer,82,No,Yes,Yes,Negative
+744,33,Female,No,20,Driver,Pneumonia,90,Yes,Yes,No,Negative
+745,77,Male,Yes,26,Factory Worker,COPD,86,No,No,Yes,Negative
+746,56,Male,Yes,22,Driver,Normal,94,Yes,Yes,Yes,Positive
+747,69,Male,No,33,Student,Pneumonia,96,No,Yes,Yes,Positive
+748,52,Male,No,34,Factory Worker,Lung Cancer,94,No,Yes,Yes,Negative
+749,82,Male,Yes,0,Farmer,COPD,97,Yes,No,Yes,Positive
+750,81,Male,Yes,16,Driver,COPD,98,No,No,Yes,Negative
+751,74,Female,No,15,Office Job,Bronchitis,76,No,Yes,Yes,Positive
+752,28,Female,No,18,Factory Worker,Lung Cancer,75,Yes,No,Yes,Positive
+753,23,Male,No,5,Housewife,Bronchitis,83,No,No,No,Negative
+754,73,Male,No,25,Farmer,Normal,91,Yes,No,No,Negative
+755,59,Female,No,21,Farmer,COPD,94,Yes,Yes,Yes,Positive
+756,50,Male,Yes,4,Student,Lung Cancer,87,No,Yes,No,Positive
+757,21,Female,No,35,Driver,Lung Cancer,84,Yes,Yes,Yes,Negative
+758,29,Male,Yes,11,Student,Asthma,87,No,No,No,Negative
+759,47,Female,No,30,Office Job,Pneumonia,96,No,Yes,Yes,Positive
+760,20,Male,Yes,20,Housewife,Normal,86,No,Yes,Yes,Negative
+761,52,Female,Yes,22,Office Job,Pneumonia,79,Yes,Yes,No,Negative
+762,23,Female,Yes,13,Student,COPD,92,No,Yes,No,Positive
+763,40,Male,Yes,36,Factory Worker,Normal,76,No,No,No,Negative
+764,78,Female,Yes,17,Factory Worker,Pneumonia,93,No,Yes,Yes,Positive
+765,84,Female,No,11,Student,Asthma,80,No,No,Yes,Negative
+766,74,Male,No,12,Housewife,Asthma,83,No,Yes,No,Positive
+767,53,Female,No,31,Housewife,Lung Cancer,80,Yes,Yes,No,Negative
+768,41,Female,No,12,Student,Asthma,91,Yes,Yes,No,Negative
+769,73,Male,No,15,Factory Worker,Normal,90,Yes,Yes,Yes,Positive
+770,80,Male,No,15,Driver,COPD,85,Yes,Yes,Yes,Negative
+771,29,Male,No,16,Housewife,Pneumonia,89,No,No,Yes,Positive
+772,78,Male,Yes,13,Housewife,Bronchitis,79,No,No,No,Positive
+773,62,Female,Yes,14,Student,Pneumonia,77,No,Yes,Yes,Negative
+774,70,Female,No,12,Housewife,Normal,85,Yes,No,Yes,Positive
+775,60,Male,No,15,Farmer,Pneumonia,97,No,No,No,Negative
+776,59,Male,Yes,39,Driver,Asthma,91,Yes,Yes,Yes,Negative
+777,31,Male,No,22,Student,Pneumonia,88,No,No,Yes,Negative
+778,38,Female,Yes,9,Farmer,Asthma,79,Yes,Yes,No,Negative
+779,60,Male,No,6,Farmer,Lung Cancer,83,No,No,Yes,Positive
+780,70,Female,No,7,Student,Lung Cancer,78,Yes,Yes,Yes,Positive
+781,81,Female,Yes,5,Student,Lung Cancer,85,No,Yes,No,Positive
+782,54,Male,Yes,31,Student,Normal,76,No,Yes,No,Positive
+783,69,Male,No,39,Farmer,Pneumonia,79,No,Yes,No,Negative
+784,22,Female,No,0,Office Job,Bronchitis,90,Yes,No,No,Positive
+785,76,Female,No,34,Student,Lung Cancer,83,Yes,No,Yes,Positive
+786,29,Female,Yes,2,Student,COPD,98,Yes,Yes,Yes,Negative
+787,58,Female,No,30,Driver,COPD,86,Yes,No,No,Negative
+788,50,Female,No,23,Student,Lung Cancer,88,Yes,Yes,Yes,Negative
+789,59,Female,No,39,Housewife,Lung Cancer,84,No,No,Yes,Negative
+790,32,Male,No,20,Housewife,Bronchitis,83,Yes,Yes,No,Negative
+791,69,Male,No,31,Driver,Bronchitis,94,Yes,Yes,No,Negative
+792,83,Female,Yes,36,Driver,Normal,99,Yes,Yes,Yes,Positive
+793,18,Male,Yes,17,Office Job,Normal,83,Yes,Yes,Yes,Negative
+794,77,Male,Yes,31,Student,COPD,91,No,No,No,Negative
+795,70,Female,No,11,Office Job,Bronchitis,85,No,No,No,Negative
+796,24,Male,No,32,Housewife,Pneumonia,88,Yes,Yes,Yes,Negative
+797,42,Male,No,17,Farmer,Normal,80,Yes,No,Yes,Negative
+798,84,Male,No,25,Office Job,Pneumonia,85,No,Yes,No,Positive
+799,64,Male,No,14,Factory Worker,Normal,98,Yes,No,No,Negative
+800,81,Female,Yes,36,Factory Worker,Lung Cancer,90,No,No,No,Negative
+801,74,Female,Yes,8,Factory Worker,Bronchitis,99,Yes,No,Yes,Positive
+802,24,Female,No,3,Driver,Normal,79,No,Yes,No,Positive
+803,44,Female,Yes,33,Housewife,Lung Cancer,92,Yes,No,Yes,Negative
+804,52,Male,No,27,Factory Worker,Pneumonia,96,Yes,No,Yes,Negative
+805,34,Male,No,30,Housewife,Pneumonia,95,No,No,Yes,Negative
+806,54,Female,No,34,Office Job,COPD,89,No,No,No,Positive
+807,74,Female,Yes,2,Student,Asthma,76,No,Yes,Yes,Positive
+808,80,Male,Yes,32,Driver,Bronchitis,81,Yes,Yes,Yes,Negative
+809,33,Female,Yes,22,Driver,COPD,79,Yes,Yes,No,Negative
+810,21,Male,No,25,Factory Worker,COPD,76,Yes,Yes,Yes,Positive
+811,48,Male,No,11,Farmer,Bronchitis,82,No,No,Yes,Positive
+812,38,Male,Yes,29,Farmer,Asthma,80,No,Yes,No,Negative
+813,57,Female,Yes,7,Student,Lung Cancer,76,Yes,No,Yes,Negative
+814,19,Male,Yes,33,Housewife,COPD,90,No,No,No,Negative
+815,70,Male,Yes,29,Office Job,COPD,83,Yes,No,Yes,Negative
+816,29,Male,Yes,20,Factory Worker,Asthma,80,Yes,Yes,No,Negative
+817,46,Male,Yes,0,Housewife,Lung Cancer,97,Yes,Yes,Yes,Negative
+818,32,Male,Yes,0,Office Job,COPD,89,No,No,No,Positive
+819,77,Male,Yes,13,Housewife,Pneumonia,88,No,No,Yes,Positive
+820,33,Female,No,24,Farmer,Asthma,78,No,Yes,Yes,Positive
+821,37,Male,Yes,37,Farmer,Bronchitis,90,Yes,Yes,Yes,Negative
+822,81,Male,No,6,Factory Worker,Asthma,76,No,No,No,Negative
+823,55,Male,Yes,20,Farmer,Asthma,89,Yes,Yes,Yes,Negative
+824,83,Female,No,23,Farmer,Normal,86,No,Yes,No,Positive
+825,52,Female,No,39,Student,Pneumonia,97,No,No,No,Negative
+826,71,Male,No,16,Student,COPD,92,Yes,No,No,Negative
+827,79,Male,No,11,Farmer,Lung Cancer,90,Yes,No,No,Positive
+828,78,Male,Yes,35,Factory Worker,Bronchitis,89,Yes,No,Yes,Negative
+829,49,Male,Yes,16,Factory Worker,Pneumonia,90,No,No,Yes,Positive
+830,76,Female,Yes,15,Housewife,Normal,78,Yes,No,Yes,Negative
+831,36,Male,No,17,Farmer,Asthma,98,No,No,Yes,Positive
+832,67,Female,No,30,Farmer,Bronchitis,79,Yes,No,Yes,Positive
+833,42,Female,No,39,Driver,Lung Cancer,78,No,Yes,No,Negative
+834,83,Male,Yes,21,Housewife,Bronchitis,86,No,Yes,Yes,Positive
+835,35,Female,No,23,Student,Bronchitis,77,No,No,No,Positive
+836,26,Male,No,11,Student,Pneumonia,81,No,No,Yes,Positive
+837,53,Male,No,31,Factory Worker,Pneumonia,84,Yes,No,No,Negative
+838,71,Female,Yes,27,Office Job,COPD,80,Yes,No,No,Positive
+839,61,Female,No,13,Office Job,Lung Cancer,80,No,Yes,Yes,Positive
+840,82,Female,Yes,26,Farmer,Asthma,98,No,No,No,Negative
+841,52,Male,No,23,Farmer,COPD,91,No,Yes,No,Negative
+842,18,Male,Yes,23,Housewife,COPD,83,No,No,Yes,Negative
+843,54,Female,No,25,Driver,Asthma,93,No,Yes,Yes,Positive
+844,56,Female,Yes,17,Driver,Normal,96,Yes,Yes,No,Negative
+845,80,Male,Yes,28,Factory Worker,Pneumonia,93,No,Yes,Yes,Negative
+846,37,Female,Yes,11,Housewife,Lung Cancer,81,Yes,No,No,Negative
+847,75,Female,Yes,36,Office Job,Bronchitis,93,Yes,Yes,No,Negative
+848,79,Female,Yes,8,Driver,Normal,75,No,Yes,Yes,Positive
+849,62,Female,Yes,36,Office Job,Lung Cancer,91,No,Yes,No,Negative
+850,60,Female,No,14,Housewife,Pneumonia,99,No,No,No,Negative
+851,66,Male,No,6,Driver,Pneumonia,93,Yes,No,Yes,Positive
+852,76,Female,Yes,17,Student,Lung Cancer,80,Yes,Yes,Yes,Negative
+853,59,Female,Yes,15,Farmer,Bronchitis,88,No,Yes,Yes,Negative
+854,42,Male,No,35,Driver,Normal,77,Yes,Yes,Yes,Negative
+855,48,Female,Yes,27,Driver,Pneumonia,82,Yes,No,Yes,Negative
+856,67,Male,Yes,24,Housewife,Pneumonia,99,Yes,No,Yes,Negative
+857,47,Male,Yes,12,Factory Worker,Normal,90,No,Yes,No,Positive
+858,70,Female,Yes,9,Student,Normal,96,No,No,Yes,Positive
+859,23,Male,No,9,Farmer,Bronchitis,78,Yes,No,Yes,Negative
+860,58,Female,No,30,Student,Bronchitis,85,Yes,Yes,Yes,Negative
+861,78,Male,No,0,Housewife,Lung Cancer,75,No,No,Yes,Positive
+862,66,Female,No,11,Housewife,Normal,84,No,Yes,Yes,Negative
+863,67,Female,No,26,Farmer,Asthma,96,Yes,Yes,Yes,Negative
+864,37,Male,No,31,Student,Lung Cancer,96,No,Yes,Yes,Positive
+865,81,Female,No,8,Student,Asthma,78,Yes,Yes,No,Positive
+866,22,Male,No,40,Factory Worker,Lung Cancer,87,Yes,Yes,Yes,Negative
+867,34,Female,Yes,33,Office Job,Asthma,86,No,Yes,No,Negative
+868,82,Male,No,34,Student,Bronchitis,93,No,Yes,Yes,Negative
+869,60,Female,No,20,Housewife,Lung Cancer,78,No,No,No,Negative
+870,30,Male,No,31,Farmer,Lung Cancer,85,Yes,Yes,No,Positive
+871,74,Female,Yes,19,Farmer,COPD,79,No,No,Yes,Positive
+872,30,Female,Yes,16,Factory Worker,Asthma,75,Yes,No,No,Positive
+873,85,Male,No,35,Office Job,Lung Cancer,77,Yes,Yes,Yes,Positive
+874,76,Male,No,36,Farmer,Lung Cancer,89,No,Yes,No,Positive
+875,19,Male,No,3,Factory Worker,Bronchitis,97,Yes,Yes,No,Negative
+876,36,Female,Yes,25,Farmer,Asthma,96,Yes,No,Yes,Positive
+877,70,Female,No,6,Driver,Normal,90,No,Yes,Yes,Negative
+878,37,Male,Yes,10,Housewife,Asthma,89,No,Yes,Yes,Positive
+879,27,Male,No,3,Student,Pneumonia,95,No,Yes,No,Positive
+880,78,Male,No,13,Office Job,Normal,83,No,No,Yes,Negative
+881,51,Male,No,16,Student,Lung Cancer,94,Yes,Yes,No,Positive
+882,61,Female,No,30,Student,Asthma,96,No,Yes,No,Negative
+883,68,Male,No,40,Driver,Asthma,75,Yes,Yes,Yes,Positive
+884,28,Female,No,6,Office Job,Pneumonia,85,Yes,Yes,No,Negative
+885,60,Female,Yes,28,Student,Pneumonia,76,No,Yes,No,Positive
+886,66,Male,Yes,21,Factory Worker,Pneumonia,95,Yes,No,No,Positive
+887,58,Male,Yes,16,Farmer,Asthma,94,Yes,Yes,No,Negative
+888,80,Male,Yes,23,Housewife,Asthma,89,No,Yes,Yes,Negative
+889,22,Male,No,23,Farmer,Asthma,85,No,No,No,Positive
+890,26,Female,No,35,Housewife,COPD,98,No,Yes,No,Positive
+891,48,Male,Yes,35,Factory Worker,COPD,98,No,No,Yes,Negative
+892,54,Male,Yes,16,Farmer,Lung Cancer,93,Yes,No,Yes,Positive
+893,47,Female,No,22,Driver,Normal,79,Yes,No,No,Negative
+894,29,Male,No,1,Factory Worker,Asthma,81,Yes,No,No,Positive
+895,73,Female,No,26,Driver,Bronchitis,76,No,No,No,Negative
+896,30,Female,No,7,Office Job,Lung Cancer,95,Yes,Yes,No,Positive
+897,30,Female,No,22,Farmer,Lung Cancer,84,No,No,Yes,Positive
+898,74,Female,No,38,Driver,Asthma,85,No,Yes,Yes,Positive
+899,39,Female,Yes,12,Farmer,Asthma,76,Yes,Yes,Yes,Negative
+900,56,Female,Yes,36,Office Job,Normal,98,Yes,Yes,Yes,Negative
+901,21,Female,No,36,Student,Pneumonia,77,Yes,Yes,No,Positive
+902,23,Female,Yes,34,Farmer,COPD,92,Yes,Yes,Yes,Negative
+903,59,Female,No,11,Office Job,Pneumonia,94,Yes,Yes,Yes,Positive
+904,25,Female,No,18,Factory Worker,Lung Cancer,87,No,Yes,No,Positive
+905,55,Male,No,22,Farmer,Lung Cancer,77,Yes,No,Yes,Negative
+906,63,Female,Yes,20,Factory Worker,Asthma,87,No,No,Yes,Positive
+907,65,Female,Yes,32,Office Job,Lung Cancer,83,Yes,No,Yes,Negative
+908,73,Male,No,31,Factory Worker,Bronchitis,80,Yes,No,No,Positive
+909,36,Female,Yes,28,Driver,Normal,82,Yes,No,No,Positive
+910,49,Female,No,5,Student,Asthma,99,No,Yes,Yes,Negative
+911,85,Female,Yes,24,Factory Worker,Normal,87,Yes,No,Yes,Positive
+912,70,Male,No,39,Driver,Lung Cancer,77,No,Yes,No,Positive
+913,41,Male,Yes,18,Student,COPD,75,No,No,Yes,Positive
+914,39,Male,No,29,Office Job,COPD,81,Yes,Yes,No,Negative
+915,40,Male,Yes,40,Office Job,Bronchitis,80,Yes,No,No,Negative
+916,28,Female,Yes,9,Farmer,Bronchitis,87,Yes,Yes,No,Negative
+917,66,Female,No,10,Driver,Asthma,99,Yes,Yes,No,Positive
+918,48,Female,Yes,40,Housewife,Bronchitis,87,No,No,Yes,Negative
+919,81,Male,No,21,Student,Lung Cancer,84,Yes,Yes,Yes,Negative
+920,36,Male,No,26,Farmer,Asthma,95,Yes,Yes,No,Positive
+921,47,Female,No,40,Farmer,COPD,99,No,No,No,Positive
+922,77,Male,No,39,Office Job,Pneumonia,95,No,Yes,No,Negative
+923,50,Female,No,36,Factory Worker,Normal,79,No,Yes,Yes,Negative
+924,76,Male,No,25,Student,Normal,78,Yes,No,No,Positive
+925,50,Female,No,4,Housewife,Lung Cancer,84,Yes,No,No,Negative
+926,19,Female,Yes,5,Office Job,Pneumonia,90,Yes,No,No,Negative
+927,77,Female,No,10,Office Job,Pneumonia,88,No,No,Yes,Positive
+928,54,Female,Yes,21,Housewife,Lung Cancer,98,Yes,No,Yes,Negative
+929,38,Female,Yes,14,Factory Worker,Bronchitis,84,Yes,Yes,Yes,Negative
+930,27,Female,No,20,Driver,Lung Cancer,96,No,Yes,No,Negative
+931,74,Male,Yes,20,Driver,Normal,94,Yes,No,Yes,Negative
+932,62,Female,Yes,18,Housewife,Pneumonia,79,Yes,No,No,Positive
+933,56,Male,No,17,Student,Asthma,86,Yes,Yes,Yes,Positive
+934,72,Male,No,38,Factory Worker,Normal,96,Yes,No,No,Positive
+935,50,Female,No,25,Factory Worker,Pneumonia,78,No,Yes,Yes,Negative
+936,76,Male,Yes,17,Farmer,Bronchitis,86,Yes,Yes,No,Positive
+937,56,Male,Yes,28,Factory Worker,Lung Cancer,91,Yes,Yes,Yes,Positive
+938,43,Male,Yes,23,Housewife,Pneumonia,81,No,No,No,Negative
+939,67,Male,Yes,37,Student,COPD,90,Yes,No,No,Negative
+940,79,Male,No,33,Factory Worker,Pneumonia,89,Yes,Yes,Yes,Negative
+941,31,Male,No,28,Farmer,Bronchitis,87,Yes,Yes,Yes,Positive
+942,48,Female,No,26,Driver,COPD,90,Yes,No,No,Positive
+943,66,Male,Yes,10,Factory Worker,Asthma,83,Yes,Yes,No,Negative
+944,63,Male,No,11,Factory Worker,Pneumonia,93,Yes,Yes,No,Positive
+945,55,Male,Yes,1,Student,Normal,94,Yes,Yes,Yes,Negative
+946,55,Male,Yes,8,Housewife,COPD,88,No,Yes,Yes,Positive
+947,20,Male,No,15,Housewife,Lung Cancer,77,Yes,Yes,No,Negative
+948,68,Male,No,16,Farmer,COPD,99,No,No,No,Positive
+949,53,Female,Yes,5,Factory Worker,Bronchitis,88,No,Yes,No,Negative
+950,19,Female,No,13,Student,Normal,86,Yes,Yes,No,Negative
+951,24,Male,Yes,10,Farmer,Asthma,94,Yes,Yes,No,Positive
+952,81,Female,Yes,25,Housewife,Bronchitis,80,No,Yes,Yes,Negative
+953,54,Female,No,6,Office Job,Lung Cancer,88,No,No,No,Negative
+954,47,Male,No,6,Farmer,COPD,95,Yes,Yes,No,Negative
+955,63,Male,Yes,4,Office Job,Lung Cancer,88,Yes,Yes,Yes,Negative
+956,46,Female,Yes,30,Office Job,COPD,77,Yes,No,Yes,Negative
+957,42,Male,Yes,35,Farmer,Normal,76,Yes,Yes,Yes,Negative
+958,50,Male,No,3,Farmer,Pneumonia,91,No,Yes,No,Negative
+959,35,Female,Yes,1,Student,Asthma,85,No,No,No,Negative
+960,30,Female,Yes,25,Farmer,Normal,89,Yes,Yes,Yes,Positive
+961,23,Male,No,33,Driver,Normal,96,Yes,No,Yes,Positive
+962,57,Female,No,5,Housewife,Asthma,82,No,Yes,No,Positive
+963,74,Male,No,6,Factory Worker,Lung Cancer,95,No,No,No,Negative
+964,22,Male,No,16,Farmer,Asthma,96,Yes,No,No,Positive
+965,64,Male,No,39,Office Job,COPD,97,No,No,Yes,Positive
+966,34,Male,No,9,Office Job,COPD,79,Yes,Yes,No,Negative
+967,29,Male,Yes,5,Farmer,Normal,90,No,No,No,Negative
+968,55,Male,Yes,24,Factory Worker,Bronchitis,91,Yes,No,No,Negative
+969,59,Female,Yes,19,Factory Worker,Pneumonia,95,Yes,No,No,Negative
+970,71,Female,No,14,Student,Pneumonia,95,No,Yes,Yes,Positive
+971,40,Female,Yes,15,Student,COPD,91,No,Yes,Yes,Negative
+972,43,Female,No,18,Student,Normal,77,Yes,No,No,Negative
+973,34,Male,Yes,28,Factory Worker,Bronchitis,84,Yes,No,No,Negative
+974,64,Female,Yes,40,Office Job,Asthma,89,Yes,Yes,No,Negative
+975,85,Female,Yes,8,Student,Bronchitis,88,No,Yes,Yes,Positive
+976,82,Female,Yes,8,Farmer,Lung Cancer,77,No,Yes,No,Positive
+977,52,Male,Yes,33,Student,Normal,90,No,No,No,Positive
+978,39,Male,No,10,Farmer,Normal,84,Yes,No,Yes,Negative
+979,50,Female,No,1,Farmer,Normal,79,Yes,Yes,No,Negative
+980,79,Male,Yes,2,Office Job,COPD,79,No,No,Yes,Negative
+981,55,Male,Yes,22,Housewife,Pneumonia,96,Yes,Yes,No,Positive
+982,61,Male,No,20,Farmer,Lung Cancer,84,No,Yes,Yes,Positive
+983,32,Female,No,30,Student,Bronchitis,82,No,No,No,Positive
+984,77,Female,Yes,29,Office Job,Asthma,91,Yes,Yes,No,Negative
+985,27,Female,Yes,34,Office Job,Pneumonia,88,No,Yes,Yes,Positive
+986,36,Female,Yes,17,Factory Worker,Bronchitis,84,Yes,Yes,No,Positive
+987,46,Male,No,35,Farmer,Lung Cancer,93,No,Yes,Yes,Negative
+988,68,Male,No,28,Student,Bronchitis,76,No,Yes,Yes,Negative
+989,64,Male,No,8,Farmer,Lung Cancer,92,Yes,Yes,No,Negative
+990,29,Male,No,34,Student,COPD,77,No,No,No,Negative
+991,68,Female,No,11,Driver,Lung Cancer,76,Yes,No,Yes,Positive
+992,19,Female,Yes,37,Factory Worker,Lung Cancer,91,No,Yes,No,Negative
+993,51,Female,No,38,Office Job,Lung Cancer,78,No,No,Yes,Positive
+994,33,Male,No,29,Factory Worker,Lung Cancer,91,Yes,No,No,Negative
+995,76,Male,No,40,Driver,Bronchitis,88,Yes,No,No,Negative
+996,65,Male,Yes,40,Housewife,Normal,88,Yes,No,No,Negative
+997,51,Male,Yes,36,Factory Worker,COPD,78,Yes,Yes,No,Negative
+998,66,Female,No,27,Factory Worker,Asthma,89,Yes,No,Yes,Positive
+999,65,Female,Yes,33,Driver,Pneumonia,96,No,Yes,Yes,Negative
+1000,31,Male,Yes,40,Factory Worker,Bronchitis,98,Yes,Yes,Yes,Positive
+1001,47,Male,Yes,40,Factory Worker,Pneumonia,93,No,Yes,Yes,Negative
+1002,78,Female,Yes,34,Driver,Bronchitis,83,Yes,Yes,Yes,Negative
+1003,21,Male,Yes,19,Driver,Bronchitis,86,Yes,No,Yes,Positive
+1004,59,Male,Yes,22,Office Job,Lung Cancer,83,Yes,Yes,Yes,Positive
+1005,46,Female,Yes,30,Housewife,Asthma,93,Yes,Yes,Yes,Negative
+1006,26,Male,Yes,34,Student,Pneumonia,77,No,Yes,Yes,Positive
+1007,77,Male,No,14,Student,Bronchitis,99,No,No,No,Negative
+1008,56,Male,Yes,5,Housewife,Pneumonia,91,No,Yes,No,Positive
+1009,70,Female,No,28,Housewife,Bronchitis,75,Yes,No,Yes,Positive
+1010,32,Male,No,19,Housewife,Asthma,78,Yes,Yes,Yes,Positive
+1011,35,Female,Yes,23,Driver,Normal,98,No,No,Yes,Negative
+1012,23,Male,Yes,26,Student,Normal,96,Yes,No,No,Positive
+1013,22,Male,Yes,16,Farmer,COPD,89,Yes,Yes,No,Positive
+1014,56,Female,Yes,9,Farmer,Asthma,80,Yes,No,Yes,Negative
+1015,81,Female,Yes,19,Farmer,Asthma,80,No,Yes,No,Negative
+1016,32,Female,Yes,0,Office Job,Lung Cancer,87,No,Yes,Yes,Negative
+1017,30,Male,No,0,Housewife,Bronchitis,76,Yes,No,Yes,Positive
+1018,48,Male,No,33,Housewife,Normal,77,No,No,No,Positive
+1019,35,Female,No,8,Student,Lung Cancer,88,No,No,Yes,Positive
+1020,67,Male,Yes,22,Factory Worker,COPD,97,Yes,Yes,Yes,Negative
+1021,76,Male,No,18,Driver,Normal,84,No,Yes,No,Positive
+1022,65,Female,No,30,Student,Bronchitis,85,No,Yes,Yes,Negative
+1023,71,Male,Yes,34,Office Job,COPD,93,Yes,No,Yes,Positive
+1024,37,Male,Yes,0,Factory Worker,COPD,98,Yes,No,Yes,Negative
+1025,71,Female,Yes,31,Housewife,Bronchitis,89,No,No,Yes,Positive
+1026,30,Female,No,30,Driver,Pneumonia,99,No,No,No,Negative
+1027,80,Female,No,19,Factory Worker,Lung Cancer,96,Yes,No,No,Positive
+1028,70,Male,Yes,0,Driver,Bronchitis,89,Yes,Yes,No,Positive
+1029,53,Female,No,27,Farmer,Asthma,94,Yes,Yes,Yes,Negative
+1030,22,Female,Yes,18,Housewife,Normal,83,Yes,No,No,Positive
+1031,65,Female,No,38,Housewife,Bronchitis,85,Yes,Yes,No,Positive
+1032,45,Male,Yes,14,Housewife,Pneumonia,80,No,No,Yes,Negative
+1033,74,Female,Yes,0,Driver,Normal,81,No,No,Yes,Positive
+1034,74,Female,No,35,Driver,Asthma,80,Yes,No,No,Positive
+1035,48,Female,Yes,23,Office Job,Asthma,77,No,No,No,Positive
+1036,64,Male,Yes,12,Office Job,Asthma,98,Yes,Yes,No,Negative
+1037,30,Female,No,26,Office Job,Bronchitis,94,Yes,No,No,Positive
+1038,65,Male,Yes,35,Student,Lung Cancer,83,No,No,No,Positive
+1039,63,Female,Yes,27,Farmer,Normal,96,Yes,No,No,Negative
+1040,25,Male,No,25,Farmer,Bronchitis,78,Yes,No,No,Negative
+1041,68,Male,Yes,15,Driver,COPD,88,Yes,Yes,Yes,Positive
+1042,53,Male,No,10,Office Job,Lung Cancer,92,Yes,No,Yes,Positive
+1043,42,Female,No,24,Housewife,Normal,75,Yes,No,No,Positive
+1044,33,Male,No,24,Housewife,Lung Cancer,75,Yes,No,Yes,Positive
+1045,76,Female,Yes,14,Farmer,Bronchitis,87,Yes,Yes,No,Negative
+1046,29,Male,Yes,16,Farmer,Normal,78,Yes,Yes,Yes,Positive
+1047,45,Female,No,5,Driver,Pneumonia,75,Yes,Yes,Yes,Positive
+1048,20,Female,Yes,27,Driver,Bronchitis,80,Yes,Yes,Yes,Positive
+1049,24,Female,No,40,Factory Worker,Asthma,95,Yes,Yes,Yes,Positive
+1050,60,Male,No,15,Factory Worker,COPD,90,No,Yes,No,Negative
+1051,49,Male,Yes,33,Driver,COPD,89,No,No,No,Negative
+1052,34,Male,Yes,39,Factory Worker,Asthma,97,No,No,Yes,Positive
+1053,44,Female,Yes,17,Farmer,Lung Cancer,87,Yes,Yes,No,Positive
+1054,26,Female,Yes,18,Driver,Lung Cancer,96,Yes,No,Yes,Negative
+1055,44,Female,Yes,34,Driver,Pneumonia,98,Yes,Yes,Yes,Positive
+1056,45,Female,No,17,Office Job,Pneumonia,94,No,Yes,No,Positive
+1057,47,Male,Yes,26,Farmer,Bronchitis,98,Yes,No,Yes,Negative
+1058,60,Male,Yes,12,Farmer,COPD,90,Yes,No,Yes,Positive
+1059,36,Male,Yes,4,Student,Pneumonia,84,No,Yes,Yes,Negative
+1060,18,Male,Yes,11,Student,Pneumonia,94,No,No,No,Positive
+1061,53,Female,No,8,Office Job,Lung Cancer,94,No,No,Yes,Negative
+1062,36,Female,Yes,18,Student,Bronchitis,86,Yes,No,Yes,Positive
+1063,34,Female,No,7,Factory Worker,Asthma,97,No,No,No,Positive
+1064,50,Male,No,40,Driver,Bronchitis,96,No,Yes,No,Positive
+1065,40,Male,No,29,Housewife,Pneumonia,97,Yes,Yes,No,Negative
+1066,32,Male,No,39,Factory Worker,Pneumonia,96,No,Yes,No,Negative
+1067,21,Female,Yes,28,Farmer,Asthma,87,No,Yes,Yes,Positive
+1068,34,Male,Yes,17,Student,COPD,84,No,No,No,Negative
+1069,19,Female,Yes,39,Housewife,COPD,77,Yes,No,Yes,Positive
+1070,63,Female,Yes,31,Factory Worker,Lung Cancer,79,No,Yes,No,Negative
+1071,48,Male,No,12,Farmer,Bronchitis,79,No,No,Yes,Positive
+1072,59,Female,No,20,Student,COPD,75,No,No,No,Negative
+1073,20,Female,No,1,Driver,Normal,81,No,Yes,Yes,Positive
+1074,40,Female,No,9,Driver,Pneumonia,78,Yes,No,No,Negative
+1075,51,Male,Yes,3,Student,Lung Cancer,75,No,No,No,Negative
+1076,24,Male,Yes,34,Driver,Normal,97,Yes,No,Yes,Negative
+1077,34,Male,Yes,1,Office Job,Bronchitis,81,No,Yes,Yes,Negative
+1078,71,Female,Yes,11,Student,Normal,75,No,No,No,Positive
+1079,85,Male,Yes,6,Office Job,Bronchitis,81,Yes,Yes,No,Negative
+1080,32,Male,Yes,18,Student,Lung Cancer,90,No,No,No,Negative
+1081,26,Female,No,17,Office Job,Pneumonia,95,Yes,No,Yes,Negative
+1082,78,Female,No,8,Driver,Pneumonia,79,Yes,Yes,No,Negative
+1083,75,Female,No,28,Driver,Bronchitis,95,No,Yes,Yes,Negative
+1084,64,Female,No,0,Factory Worker,Pneumonia,82,No,No,No,Positive
+1085,83,Male,Yes,14,Farmer,COPD,88,No,Yes,No,Negative
+1086,31,Male,No,5,Office Job,Lung Cancer,95,No,Yes,Yes,Negative
+1087,75,Male,No,9,Housewife,Normal,92,No,No,No,Negative
+1088,82,Female,Yes,0,Student,Pneumonia,81,No,Yes,No,Negative
+1089,46,Female,Yes,31,Driver,Normal,77,No,No,Yes,Positive
+1090,23,Female,No,13,Driver,COPD,84,No,Yes,Yes,Positive
+1091,84,Female,No,21,Student,Lung Cancer,99,Yes,No,Yes,Negative
+1092,56,Female,No,26,Farmer,Asthma,89,No,No,No,Positive
+1093,76,Male,No,19,Student,Normal,79,Yes,No,Yes,Negative
+1094,21,Female,No,31,Housewife,COPD,90,No,Yes,No,Negative
+1095,25,Female,No,23,Office Job,Asthma,88,Yes,Yes,No,Negative
+1096,79,Male,No,29,Office Job,Lung Cancer,75,Yes,Yes,No,Positive
+1097,69,Female,Yes,2,Housewife,Bronchitis,78,Yes,Yes,No,Positive
+1098,72,Male,Yes,21,Housewife,Pneumonia,80,Yes,No,Yes,Positive
+1099,31,Female,Yes,5,Factory Worker,Asthma,79,Yes,No,Yes,Negative
+1100,80,Male,Yes,9,Housewife,Lung Cancer,98,No,No,No,Negative
+1101,74,Male,Yes,3,Housewife,Asthma,97,No,Yes,No,Positive
+1102,27,Female,Yes,17,Student,COPD,89,No,Yes,Yes,Negative
+1103,28,Male,No,25,Driver,Lung Cancer,90,No,Yes,No,Negative
+1104,59,Female,No,4,Factory Worker,Lung Cancer,90,No,Yes,Yes,Positive
+1105,36,Female,No,34,Student,Bronchitis,75,No,No,Yes,Positive
+1106,26,Female,Yes,30,Student,Pneumonia,89,No,No,No,Positive
+1107,34,Female,No,11,Driver,Lung Cancer,93,No,Yes,Yes,Positive
+1108,53,Female,No,12,Farmer,COPD,82,No,No,Yes,Positive
+1109,59,Female,Yes,16,Student,Lung Cancer,81,Yes,No,Yes,Negative
+1110,66,Female,Yes,24,Factory Worker,Lung Cancer,84,No,No,No,Negative
+1111,85,Male,No,0,Driver,Normal,93,Yes,Yes,No,Negative
+1112,55,Female,No,7,Office Job,Pneumonia,87,Yes,No,No,Negative
+1113,76,Female,Yes,15,Farmer,COPD,76,No,Yes,Yes,Positive
+1114,82,Male,No,24,Driver,Normal,85,Yes,Yes,Yes,Negative
+1115,73,Female,No,28,Factory Worker,Asthma,75,Yes,Yes,Yes,Positive
+1116,30,Female,Yes,15,Student,Pneumonia,78,No,No,No,Positive
+1117,32,Male,Yes,2,Factory Worker,Asthma,95,No,No,Yes,Negative
+1118,45,Female,No,12,Housewife,COPD,97,No,No,Yes,Positive
+1119,73,Female,No,29,Student,Normal,88,No,Yes,Yes,Positive
+1120,75,Female,Yes,6,Driver,Asthma,88,No,Yes,Yes,Negative
+1121,47,Female,Yes,33,Farmer,Normal,90,Yes,No,No,Positive
+1122,70,Male,No,13,Driver,Lung Cancer,98,No,No,No,Positive
+1123,61,Female,Yes,30,Housewife,Lung Cancer,93,No,No,No,Positive
+1124,76,Female,No,24,Housewife,Pneumonia,94,Yes,No,Yes,Negative
+1125,69,Female,Yes,19,Factory Worker,Lung Cancer,98,Yes,Yes,No,Negative
+1126,71,Female,No,20,Factory Worker,Lung Cancer,92,No,No,Yes,Negative
+1127,30,Female,No,10,Office Job,Pneumonia,84,Yes,No,No,Negative
+1128,58,Male,No,40,Office Job,Pneumonia,76,No,No,Yes,Positive
+1129,72,Male,Yes,2,Student,Pneumonia,90,Yes,Yes,No,Negative
+1130,58,Male,Yes,35,Housewife,Lung Cancer,87,Yes,Yes,No,Negative
+1131,50,Male,Yes,33,Factory Worker,COPD,90,No,Yes,Yes,Negative
+1132,65,Female,Yes,7,Office Job,Normal,91,No,Yes,Yes,Negative
+1133,37,Male,No,16,Housewife,Normal,93,Yes,No,Yes,Positive
+1134,78,Female,No,30,Office Job,Lung Cancer,98,No,No,No,Negative
+1135,26,Female,Yes,40,Driver,Asthma,94,Yes,Yes,No,Negative
+1136,29,Male,Yes,19,Student,COPD,96,Yes,Yes,No,Negative
+1137,28,Female,No,12,Farmer,Asthma,90,Yes,No,No,Negative
+1138,29,Female,No,23,Driver,Normal,82,Yes,Yes,No,Negative
+1139,73,Male,Yes,3,Student,Lung Cancer,97,Yes,No,No,Negative
+1140,30,Female,No,13,Student,Lung Cancer,76,No,No,No,Negative
+1141,65,Male,No,7,Driver,Bronchitis,91,No,Yes,Yes,Negative
+1142,34,Female,Yes,15,Office Job,Bronchitis,75,Yes,No,Yes,Negative
+1143,25,Male,Yes,40,Office Job,Lung Cancer,88,Yes,No,Yes,Positive
+1144,60,Female,No,27,Housewife,Asthma,93,No,Yes,Yes,Negative
+1145,33,Female,No,20,Farmer,COPD,85,Yes,No,Yes,Positive
+1146,70,Male,Yes,0,Farmer,Asthma,92,No,Yes,No,Negative
+1147,63,Female,Yes,10,Student,Asthma,77,No,No,No,Negative
+1148,72,Female,No,17,Housewife,Normal,83,No,Yes,No,Positive
+1149,24,Female,No,37,Farmer,Asthma,95,No,Yes,No,Negative
+1150,54,Female,No,7,Driver,Asthma,88,No,Yes,No,Negative
+1151,57,Male,Yes,25,Housewife,Normal,90,No,Yes,Yes,Positive
+1152,63,Female,No,15,Farmer,Normal,78,Yes,No,No,Positive
+1153,31,Male,No,0,Factory Worker,Pneumonia,90,Yes,Yes,Yes,Positive
+1154,82,Male,No,2,Student,Normal,94,No,No,Yes,Negative
+1155,45,Male,Yes,37,Factory Worker,Normal,95,Yes,Yes,No,Negative
+1156,37,Female,No,30,Student,Pneumonia,86,No,No,No,Negative
+1157,79,Male,Yes,38,Student,Normal,89,Yes,Yes,No,Positive
+1158,46,Male,Yes,9,Driver,Pneumonia,97,No,Yes,Yes,Negative
+1159,31,Female,No,23,Office Job,COPD,88,No,Yes,No,Negative
+1160,62,Female,No,5,Farmer,Bronchitis,75,Yes,No,No,Negative
+1161,65,Female,Yes,15,Factory Worker,Bronchitis,80,Yes,No,No,Negative
+1162,32,Male,Yes,10,Farmer,COPD,84,No,Yes,No,Positive
+1163,53,Male,Yes,31,Student,COPD,98,Yes,No,No,Positive
+1164,46,Male,No,5,Factory Worker,Asthma,81,Yes,No,Yes,Negative
+1165,72,Female,Yes,39,Factory Worker,COPD,90,Yes,Yes,Yes,Negative
+1166,21,Male,No,21,Housewife,Bronchitis,86,No,No,Yes,Positive
+1167,52,Male,No,40,Student,Lung Cancer,89,No,No,Yes,Positive
+1168,21,Female,No,3,Farmer,Lung Cancer,82,No,No,No,Positive
+1169,41,Female,Yes,3,Factory Worker,Pneumonia,91,No,No,No,Positive
+1170,52,Female,Yes,22,Farmer,Lung Cancer,82,Yes,No,No,Negative
+1171,57,Female,No,9,Factory Worker,Asthma,93,Yes,No,Yes,Negative
+1172,61,Male,No,34,Office Job,Bronchitis,96,No,No,No,Negative
+1173,62,Female,No,6,Driver,Normal,85,Yes,No,No,Positive
+1174,18,Male,No,8,Housewife,Normal,94,Yes,Yes,Yes,Negative
+1175,41,Female,No,31,Student,Lung Cancer,97,Yes,Yes,Yes,Negative
+1176,36,Male,Yes,14,Driver,Asthma,96,No,No,No,Positive
+1177,69,Female,Yes,20,Housewife,Pneumonia,89,Yes,No,No,Negative
+1178,26,Female,Yes,35,Farmer,Lung Cancer,79,Yes,No,No,Negative
+1179,36,Male,Yes,22,Housewife,COPD,84,No,Yes,No,Positive
+1180,21,Male,No,28,Driver,Pneumonia,98,Yes,Yes,Yes,Positive
+1181,29,Male,No,12,Driver,COPD,97,Yes,No,Yes,Positive
+1182,85,Female,No,1,Driver,Asthma,87,Yes,No,No,Negative
+1183,45,Female,No,24,Driver,Asthma,88,Yes,No,No,Negative
+1184,66,Female,Yes,22,Student,Pneumonia,96,Yes,No,Yes,Negative
+1185,71,Female,Yes,8,Office Job,Asthma,95,Yes,No,Yes,Negative
+1186,76,Male,Yes,16,Housewife,Pneumonia,98,No,Yes,No,Negative
+1187,61,Female,No,2,Office Job,Asthma,86,No,Yes,Yes,Positive
+1188,38,Female,Yes,31,Driver,Lung Cancer,90,No,Yes,Yes,Negative
+1189,65,Female,No,28,Office Job,Asthma,80,Yes,Yes,Yes,Positive
+1190,57,Male,Yes,35,Office Job,Asthma,94,Yes,Yes,Yes,Positive
+1191,59,Female,No,18,Student,Asthma,81,Yes,No,Yes,Negative
+1192,28,Female,Yes,34,Driver,COPD,84,No,Yes,Yes,Negative
+1193,24,Female,Yes,31,Farmer,Bronchitis,97,Yes,No,Yes,Positive
+1194,37,Male,Yes,12,Driver,Pneumonia,98,No,Yes,Yes,Positive
+1195,38,Female,No,36,Office Job,COPD,77,Yes,No,No,Negative
+1196,24,Male,Yes,11,Farmer,COPD,96,No,Yes,Yes,Positive
+1197,28,Male,No,34,Housewife,COPD,90,Yes,No,No,Positive
+1198,52,Male,Yes,22,Office Job,Bronchitis,79,No,No,Yes,Negative
+1199,74,Female,No,20,Office Job,Bronchitis,80,Yes,Yes,No,Positive
+1200,72,Male,Yes,29,Factory Worker,COPD,81,Yes,Yes,No,Negative
